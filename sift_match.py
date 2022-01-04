@@ -3,7 +3,7 @@ import os.path
 import cv2
 import numpy as np
 import time
-import random
+import random  # La utilizamos para ejecutar consultas aleatorias de imágenes recortadas
 
 if len(sys.argv) < 3:
     print("Uso: {} [sift_descriptors_folder_path] [cropped_images_folder_path] [results_text_file]".format(sys.argv[0]))
@@ -28,15 +28,12 @@ def get_sift_descriptors(image_path):
     sift = cv2.SIFT_create()
     keypoints = sift.detect(grey_image)
     keypoints, descriptors = sift.compute(grey_image, keypoints)
-    ##print("keypoints={}".format(len(keypoints)))
-    ##print("descriptors={} {}".format(descriptors.shape, descriptors.dtype))
     return descriptors
 
 
 def find_matches(descriptors1, descriptors2, threshold_distance):
     bf = cv2.BFMatcher(cv2.NORM_L2)
     matches = bf.match(descriptors1, descriptors2)
-    ##print("matches encontrados={}".format(len(matches)))
     #ordenar de menor a mayor distancia
     matches = sorted(matches, key=lambda x:x.distance)
     #quedarse solo los menores a cierto umbral
@@ -66,7 +63,6 @@ for cropped_image in os.listdir(cropped_images_folder_path):
         original_image_sift_descriptor = np.load(os.path.join(sift_descriptors_folder_path, sift_descriptors))
         matches = comparar_con_distancia_umbral(cropped_image_sift_descriptors, original_image_sift_descriptor, 150)
         n_matches = len(matches)
-        ##print("mostrando {} matches menores que cierto umbral".format(len(matches)))
         if n_matches > best_matches:
             best_matches = n_matches
             best_champion = sift_descriptors[:-4]  # Quitar extensión .npy y dejar el nombre de la imagen del campeón

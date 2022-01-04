@@ -25,8 +25,6 @@ def save_sift_descriptors(descriptor_name, image_path):
     sift = cv2.SIFT_create()
     keypoints = sift.detect(grey_image)
     keypoints, descriptors = sift.compute(grey_image, keypoints)
-    # print("keypoints={}".format(len(keypoints)))
-    # print("descriptors={} {}".format(descriptors.shape, descriptors.dtype))
     np.save(os.path.join(sift_descriptors_folder_path, descriptor_name), descriptors)
 
 

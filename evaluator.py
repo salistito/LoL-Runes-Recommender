@@ -21,5 +21,6 @@ for line in lines:
         correct_ans += 1
     else:
         print("Se encontraron errores en:", actual_line)
-print("Se obtuvieron {} respuestas correctas de {} dando un porcentaje de {} respuestas correctas".format(correct_ans, ans, correct_ans/ans))
+print("Se obtuvieron {} respuestas correctas de {} dando un porcentaje de {} respuestas correctas".
+      format(correct_ans, ans, correct_ans/ans))
 results.close()

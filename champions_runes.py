@@ -10,7 +10,8 @@ def get_champions_names():
     """
     champions = []
     URL = "https://www.leagueoflegends.com/en-us/champions/"
-    hdr = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50'}
+    hdr = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                         'Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50'}
     req = Request(URL, headers=hdr)
     html = request.urlopen(req)
     soup = BeautifulSoup(html, "html.parser")  # Formato beautifulsoup para ir obteniendo elementos html
@@ -28,7 +29,8 @@ def get_champion_runes(champion, lane="all"):
     """
     rune_options = []
     URL = "https://na.op.gg/champion/" + champion + "/statistics/" + lane
-    hdr = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50'}
+    hdr = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                         'Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50'}
     req = Request(URL, headers=hdr)
     html = request.urlopen(req)
     soup = BeautifulSoup(html, "html.parser")  # Formato beautifulsoup para ir obteniendo elementos html
@@ -52,7 +54,7 @@ def get_champion_runes(champion, lane="all"):
         _shard = []
         for j in range(len(shard_option)):  # iterar sobre las 3 rows y sacar el fragmento activo
             for k in range(3):  # dentro de cada row iterar sobre las 3 opciones y sacar el fragmento activo
-                if ('class="active tip"' in str(shard_option[j].find_all('img')[k])):
+                if 'class="active tip"' in str(shard_option[j].find_all('img')[k]):
                     _shard.append(k)
 
     # TODO: clean up data processing. op.gg seems always have 4 options but that could change
@@ -69,7 +71,7 @@ def get_champion_runes(champion, lane="all"):
             primary_path = [rune_paths[1][0], all_runes[(6*i):(4+(i*6))]]  # Obtener las 4 runas de la rama principal
             secondary_path = [rune_paths[1][1], all_runes[4+(6*i):(6+(i*6))]]  # Obtener las 2 runas de la rama secundaria
             rune_options.append([primary_path, secondary_path, _shard])
-    return(rune_options)
+    return rune_options
 
 
 def display(rune_options):

@@ -2,8 +2,8 @@ import sys
 import os.path
 import cv2
 import numpy as np
+import subprocess
 import json
-import execute_app
 
 if len(sys.argv) < 2:
     print("Uso: {} [cropped_image_path]".format(sys.argv[0]))
@@ -57,6 +57,11 @@ def print_rune_set(json_file):
     print("===========================================================")
 
 
+def app_gui(champ_name, cropped_image_path, result_image_path, runes_sets_json_file):
+    comando = ["python", "GUI.py", champ_name, cropped_image_path, result_image_path, runes_sets_json_file]
+    subprocess.call(comando)
+
+
 print("\nSe está buscando a:", cropped_image_path)
 cropped_image_sift_descriptors = get_sift_descriptors(cropped_image_path)
 best_matches = 0
@@ -65,7 +70,6 @@ for sift_descriptors in os.listdir(sift_descriptors_folder_path):
     original_image_sift_descriptor = np.load(os.path.join(sift_descriptors_folder_path, sift_descriptors))
     matches = comparar_con_distancia_umbral(cropped_image_sift_descriptors, original_image_sift_descriptor, 150)
     n_matches = len(matches)
-    ##print("mostrando {} matches menores que cierto umbral".format(len(matches)))
     if n_matches > best_matches:
         best_matches = n_matches
         best_result_image = sift_descriptors[:-4]  # Quitar extensión .npy y dejar el nombre de la imagen del campeón
@@ -75,9 +79,9 @@ for sift_descriptors in os.listdir(sift_descriptors_folder_path):
 _index = best_result_image.index('_')
 champion_name = best_result_image[:_index]
 best_result_image_path = os.path.join(original_images_path, best_result_image)
-print("El mejor campeón encontrado fue: {0} con {1} matches".format(champion_name, best_matches))
-print("===========================================================")
-
+#print("El mejor campeón encontrado fue: {0} con {1} matches".format(champion_name, best_matches))
+#print("===========================================================")
+"""
 with open('champions_runes.json') as json_file:
     champions_runes = json.load(json_file)
     champion_runes = champions_runes[champion_name]
@@ -85,5 +89,5 @@ with open('champions_runes.json') as json_file:
         print("Runeset {0}:".format(actual_rune_set))
         rune_set = champion_runes['rune_set{}'.format(actual_rune_set)]
         print_rune_set(rune_set)
-
-execute_app.app_gui(champion_name, cropped_image_path, best_result_image_path, "champions_runes.json")
+"""
+app_gui(champion_name, cropped_image_path, best_result_image_path, "champions_runes.json")

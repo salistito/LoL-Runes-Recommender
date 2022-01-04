@@ -29,8 +29,8 @@ venv.bak/
 # Folders
 centered_sift_descriptors/
 dragontail-11.24.1/
-loading_sift_descriptors
-opgg_scraper-master
+loading_sift_descriptors/
+opgg_scraper-master/
 splash_sift_descriptors/
 tiles_sift_descriptors/
 dragontail-11.24.1.tgz

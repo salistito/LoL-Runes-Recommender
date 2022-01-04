@@ -36,6 +36,7 @@ if len(sys.argv) == 3 or len(sys.argv) == 6:
         comando = ["python", "get_runes.py", cropped_image_path]
         run_command(comando)
 
+
     def app_gui(champ_name, cropped_image_path, result_image_path, runes_sets_json_file):
         comando = ["python", "GUI.py", champ_name, cropped_image_path, result_image_path, runes_sets_json_file]
         run_command(comando)
@@ -60,6 +61,7 @@ if len(sys.argv) == 3 or len(sys.argv) == 6:
 elif len(sys.argv) != 3 and len(sys.argv) != 6:
     print("La app se puede ejecutar de 2 maneras:")
     print("   En mode='full_execution' o en mode='get_runes'.")
+    print()
     print("   El modo 'full_execution' sirve para realizar debugging de la app y benchmarking de tiempos.")
     print("   En este modo se precomputan los descriptores sift, se generan crops aleatorios de imágenes")
     print("   se realiza match de vectores sift con un dataset extenso y se anotan los resultados en un archivo .txt")
