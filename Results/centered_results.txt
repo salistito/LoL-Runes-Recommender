@@ -1,0 +1,1463 @@
+Img Consulta 	 Img Detectada 	 Matches 	 Tiempo
+Aatrox_0.jpg 	  	 0 	 1.0412216186523438
+Aatrox_1.jpg 	 Aatrox_1.jpg 	 28 	 1.4423227310180664
+Aatrox_11.jpg 	 Aatrox_11.jpg 	 12 	 1.3843114376068115
+Aatrox_2.jpg 	 Aatrox_2.jpg 	 34 	 1.5353455543518066
+Aatrox_3.jpg 	 Aatrox_3.jpg 	 71 	 1.7228591442108154
+Aatrox_7.jpg 	  	 0 	 0.8353128433227539
+Aatrox_8.jpg 	 Aatrox_8.jpg 	 282 	 0.045011281967163086
+Aatrox_9.jpg 	 Aatrox_9.jpg 	 95 	 1.8204107284545898
+Ahri_0.jpg 	 Ahri_0.jpg 	 161 	 0.04100823402404785
+Ahri_1.jpg 	 Ahri_1.jpg 	 56 	 1.9004294872283936
+Ahri_14.jpg 	 Ahri_14.jpg 	 37 	 1.5903573036193848
+Ahri_15.jpg 	 Ahri_15.jpg 	 127 	 0.0510096549987793
+Ahri_16.jpg 	 Ahri_16.jpg 	 7 	 1.284290075302124
+Ahri_17.jpg 	 Ahri_17.jpg 	 230 	 0.05101132392883301
+Ahri_2.jpg 	 Ahri_2.jpg 	 6 	 1.3763105869293213
+Ahri_27.jpg 	 Ahri_27.jpg 	 9 	 1.2662851810455322
+Ahri_28.jpg 	 Ahri_28.jpg 	 13 	 1.3753092288970947
+Ahri_3.jpg 	 Ahri_3.jpg 	 106 	 0.04601001739501953
+Ahri_4.jpg 	 Ahri_4.jpg 	 292 	 0.06501460075378418
+Ahri_42.jpg 	 Ahri_42.jpg 	 53 	 1.5593512058258057
+Ahri_5.jpg 	 Ahri_5.jpg 	 21 	 1.4023175239562988
+Ahri_6.jpg 	 Aatrox_3.jpg 	 1 	 0.9522194862365723
+Ahri_7.jpg 	 Ahri_7.jpg 	 65 	 1.630361557006836
+Akali_0.jpg 	 Akali_0.jpg 	 87 	 1.7503936290740967
+Akali_1.jpg 	 Akali_1.jpg 	 170 	 0.0690164566040039
+Akali_13.jpg 	 Akali_13.jpg 	 31 	 1.5273497104644775
+Akali_14.jpg 	  	 0 	 0.8982009887695312
+Akali_15.jpg 	  	 0 	 0.9081988334655762
+Akali_2.jpg 	 Akali_2.jpg 	 34 	 1.4793329238891602
+Akali_3.jpg 	 Akali_3.jpg 	 5 	 1.2642858028411865
+Akali_32.jpg 	 Akali_32.jpg 	 21 	 1.3623061180114746
+Akali_4.jpg 	 Akali_4.jpg 	 13 	 1.379312515258789
+Akali_5.jpg 	 Akali_5.jpg 	 9 	 1.3102943897247314
+Akali_50.jpg 	 Akali_50.jpg 	 21 	 1.5693519115447998
+Akali_6.jpg 	  	 0 	 1.0572388172149658
+Akali_7.jpg 	 Akali_7.jpg 	 58 	 1.594357967376709
+Akali_8.jpg 	 Akali_8.jpg 	 37 	 1.5653541088104248
+Akali_9.jpg 	 Akali_9.jpg 	 32 	 1.5033371448516846
+Akshan_0.jpg 	 Akshan_0.jpg 	 175 	 0.07701659202575684
+Akshan_1.jpg 	 Akshan_1.jpg 	 4 	 1.2072727680206299
+Alistar_0.jpg 	 Alistar_0.jpg 	 48 	 1.570354700088501
+Alistar_1.jpg 	  	 0 	 0.9712188243865967
+Alistar_10.jpg 	 Alistar_10.jpg 	 5 	 1.2392776012420654
+Alistar_19.jpg 	 Alistar_19.jpg 	 169 	 0.10603094100952148
+Alistar_2.jpg 	 Alistar_2.jpg 	 37 	 1.4823272228240967
+Alistar_20.jpg 	 Alistar_20.jpg 	 4 	 1.2312769889831543
+Alistar_22.jpg 	 Alistar_22.jpg 	 15 	 1.4483273029327393
+Alistar_29.jpg 	 Alistar_29.jpg 	 20 	 1.5163404941558838
+Alistar_3.jpg 	 Alistar_3.jpg 	 1 	 1.1602604389190674
+Alistar_4.jpg 	 Alistar_4.jpg 	 299 	 0.12402939796447754
+Alistar_5.jpg 	 Alistar_5.jpg 	 45 	 1.5593509674072266
+Alistar_6.jpg 	 Alistar_6.jpg 	 84 	 1.7263875007629395
+Alistar_7.jpg 	 Alistar_7.jpg 	 25 	 1.4673347473144531
+Alistar_8.jpg 	 Alistar_8.jpg 	 167 	 0.1130220890045166
+Alistar_9.jpg 	 Alistar_9.jpg 	 13 	 1.388312816619873
+Amumu_0.jpg 	 Amumu_0.jpg 	 21 	 1.4663300514221191
+Amumu_1.jpg 	 Amumu_1.jpg 	 272 	 0.1290283203125
+Amumu_17.jpg 	 Amumu_17.jpg 	 25 	 1.5033395290374756
+Amumu_2.jpg 	 Amumu_2.jpg 	 41 	 1.5033378601074219
+Amumu_23.jpg 	 Amumu_23.jpg 	 54 	 1.661374568939209
+Amumu_24.jpg 	 Amumu_24.jpg 	 3 	 1.2432794570922852
+Amumu_3.jpg 	 Amumu_3.jpg 	 251 	 0.14103245735168457
+Amumu_4.jpg 	 Amumu_4.jpg 	 20 	 1.564356803894043
+Amumu_5.jpg 	 Amumu_5.jpg 	 16 	 1.5323407649993896
+Amumu_6.jpg 	 Amumu_6.jpg 	 130 	 0.11702585220336914
+Amumu_7.jpg 	 Amumu_7.jpg 	 71 	 1.6813783645629883
+Amumu_8.jpg 	  	 0 	 1.0822458267211914
+Anivia_0.jpg 	 Anivia_0.jpg 	 208 	 0.14803147315979004
+Anivia_1.jpg 	 Anivia_1.jpg 	 227 	 0.16303730010986328
+Anivia_17.jpg 	 Anivia_17.jpg 	 48 	 1.6203644275665283
+Anivia_2.jpg 	  	 0 	 0.84619140625
+Anivia_27.jpg 	 Anivia_27.jpg 	 63 	 1.6993818283081055
+Anivia_3.jpg 	 Anivia_3.jpg 	 62 	 1.7103862762451172
+Anivia_4.jpg 	 Anivia_4.jpg 	 113 	 0.11902546882629395
+Anivia_5.jpg 	 Anivia_5.jpg 	 2 	 1.1302545070648193
+Anivia_6.jpg 	 Anivia_6.jpg 	 5 	 1.2162737846374512
+Anivia_7.jpg 	 Anivia_7.jpg 	 139 	 0.1380307674407959
+Anivia_8.jpg 	  	 0 	 0.931229829788208
+Annie_0.jpg 	 Annie_0.jpg 	 192 	 0.14901423454284668
+Annie_1.jpg 	 Annie_1.jpg 	 52 	 1.5783555507659912
+Annie_10.jpg 	 Annie_10.jpg 	 72 	 1.6583738327026367
+Annie_11.jpg 	 Annie_11.jpg 	 51 	 1.6003594398498535
+Annie_12.jpg 	 Annie_12.jpg 	 22 	 1.4413261413574219
+Annie_13.jpg 	 Ahri_15.jpg 	 1 	 1.271284818649292
+Annie_2.jpg 	 Annie_2.jpg 	 181 	 0.1510331630706787
+Annie_22.jpg 	 Annie_22.jpg 	 37 	 1.54534912109375
+Annie_3.jpg 	 Annie_3.jpg 	 87 	 1.7293882369995117
+Annie_4.jpg 	 Annie_4.jpg 	 3 	 1.1982707977294922
+Annie_5.jpg 	 Annie_5.jpg 	 8 	 1.2352771759033203
+Annie_6.jpg 	  	 0 	 0.9052045345306396
+Annie_7.jpg 	 Annie_7.jpg 	 68 	 1.6563737392425537
+Annie_8.jpg 	 Annie_8.jpg 	 249 	 0.18104028701782227
+Annie_9.jpg 	  	 0 	 0.8432064056396484
+Aphelios_0.jpg 	 Aphelios_0.jpg 	 3 	 1.082242727279663
+Aphelios_1.jpg 	 Aphelios_1.jpg 	 2 	 0.9772188663482666
+Aphelios_9.jpg 	 Aphelios_9.jpg 	 149 	 0.19503140449523926
+Ashe_0.jpg 	  	 0 	 0.8792061805725098
+Ashe_1.jpg 	  	 0 	 0.9792110919952393
+Ashe_11.jpg 	 Ashe_11.jpg 	 1 	 1.1202518939971924
+Ashe_17.jpg 	 Ashe_17.jpg 	 28 	 1.4363224506378174
+Ashe_2.jpg 	 Ashe_2.jpg 	 1 	 1.0042414665222168
+Ashe_23.jpg 	 Ashe_23.jpg 	 27 	 1.534332513809204
+Ashe_3.jpg 	  	 0 	 1.0372314453125
+Ashe_32.jpg 	 Akali_32.jpg 	 2 	 1.2552831172943115
+Ashe_4.jpg 	 Ashe_4.jpg 	 2 	 1.274287462234497
+Ashe_5.jpg 	 Ashe_5.jpg 	 5 	 1.2182798385620117
+Ashe_6.jpg 	 Ashe_6.jpg 	 130 	 0.17603564262390137
+Ashe_7.jpg 	 Ashe_7.jpg 	 2 	 1.1552724838256836
+Ashe_8.jpg 	 Ashe_8.jpg 	 67 	 1.7113711833953857
+Ashe_9.jpg 	  	 0 	 1.2602858543395996
+AurelionSol_0.jpg 	 AurelionSol_0.jpg 	 21 	 1.7413923740386963
+AurelionSol_1.jpg 	 Amumu_3.jpg 	 2 	 1.5963611602783203
+AurelionSol_11.jpg 	 AurelionSol_11.jpg 	 13 	 1.5423448085784912
+AurelionSol_2.jpg 	 AurelionSol_2.jpg 	 5 	 1.3863122463226318
+Azir_0.jpg 	 Azir_0.jpg 	 49 	 1.6693751811981201
+Azir_1.jpg 	  	 0 	 1.2972917556762695
+Azir_2.jpg 	 Azir_2.jpg 	 19 	 1.8984293937683105
+Azir_3.jpg 	 Azir_3.jpg 	 8 	 1.4853408336639404
+Azir_4.jpg 	 Azir_4.jpg 	 2 	 1.0622451305389404
+Azir_5.jpg 	 Azir_5.jpg 	 168 	 0.22903823852539062
+Bard_0.jpg 	 Bard_0.jpg 	 126 	 0.21504759788513184
+Bard_1.jpg 	 Bard_1.jpg 	 21 	 1.4353249073028564
+Bard_17.jpg 	 Bard_17.jpg 	 7 	 1.4383246898651123
+Bard_5.jpg 	 Bard_5.jpg 	 14 	 1.4303200244903564
+Bard_6.jpg 	 Bard_6.jpg 	 81 	 1.6923816204071045
+Bard_8.jpg 	 Bard_8.jpg 	 4 	 1.3803129196166992
+Blitzcrank_0.jpg 	  	 0 	 0.9892401695251465
+Blitzcrank_1.jpg 	  	 0 	 1.1132497787475586
+Blitzcrank_11.jpg 	 Blitzcrank_11.jpg 	 39 	 1.609363079071045
+Blitzcrank_2.jpg 	 Blitzcrank_2.jpg 	 103 	 0.1910419464111328
+Blitzcrank_20.jpg 	 Blitzcrank_20.jpg 	 69 	 1.6483728885650635
+Blitzcrank_21.jpg 	 Blitzcrank_21.jpg 	 154 	 0.21104645729064941
+Blitzcrank_22.jpg 	 Blitzcrank_22.jpg 	 1 	 0.9132194519042969
+Blitzcrank_29.jpg 	 Blitzcrank_29.jpg 	 133 	 0.19503164291381836
+Blitzcrank_3.jpg 	 Blitzcrank_3.jpg 	 226 	 0.2940657138824463
+Blitzcrank_36.jpg 	 Blitzcrank_36.jpg 	 93 	 1.903430461883545
+Blitzcrank_4.jpg 	 Blitzcrank_4.jpg 	 186 	 0.25205302238464355
+Blitzcrank_5.jpg 	  	 0 	 0.847191572189331
+Blitzcrank_6.jpg 	 Blitzcrank_6.jpg 	 9 	 1.377309799194336
+Blitzcrank_7.jpg 	 Diana_25.jpg 	 1 	 1.0772438049316406
+Brand_0.jpg 	 Brand_0.jpg 	 4 	 1.1852660179138184
+Brand_1.jpg 	  	 0 	 0.8972012996673584
+Brand_2.jpg 	  	 0 	 0.847191572189331
+Brand_21.jpg 	  	 0 	 0.9002032279968262
+Brand_22.jpg 	 Brand_22.jpg 	 13 	 1.2172741889953613
+Brand_3.jpg 	 Brand_3.jpg 	 48 	 1.5663511753082275
+Brand_4.jpg 	 Brand_4.jpg 	 78 	 1.6983838081359863
+Brand_5.jpg 	 Brand_5.jpg 	 26 	 1.4763360023498535
+Brand_6.jpg 	  	 0 	 0.9862320423126221
+Brand_7.jpg 	 Brand_7.jpg 	 14 	 1.393301010131836
+Brand_8.jpg 	 Brand_8.jpg 	 52 	 1.5533504486083984
+Braum_0.jpg 	  	 0 	 0.8232038021087646
+Braum_1.jpg 	  	 0 	 0.871190071105957
+Braum_10.jpg 	 Braum_10.jpg 	 179 	 0.31805896759033203
+Braum_11.jpg 	 Braum_11.jpg 	 33 	 1.407315969467163
+Braum_2.jpg 	 Braum_2.jpg 	 40 	 1.5613503456115723
+Braum_24.jpg 	 Braum_24.jpg 	 122 	 0.22805523872375488
+Braum_3.jpg 	 Braum_3.jpg 	 53 	 1.63136625289917
+Braum_33.jpg 	 Braum_33.jpg 	 163 	 0.25205516815185547
+Caitlyn_0.jpg 	 Caitlyn_0.jpg 	 25 	 1.5403459072113037
+Caitlyn_1.jpg 	 Caitlyn_1.jpg 	 15 	 1.4433259963989258
+Caitlyn_10.jpg 	 Caitlyn_10.jpg 	 119 	 0.2360532283782959
+Caitlyn_11.jpg 	 Caitlyn_11.jpg 	 4 	 1.27329421043396
+Caitlyn_13.jpg 	 Caitlyn_13.jpg 	 2 	 1.0652403831481934
+Caitlyn_19.jpg 	 Caitlyn_19.jpg 	 187 	 0.27405428886413574
+Caitlyn_2.jpg 	 Caitlyn_2.jpg 	 31 	 1.455331802368164
+Caitlyn_20.jpg 	 Caitlyn_20.jpg 	 36 	 1.5143351554870605
+Caitlyn_22.jpg 	 Caitlyn_22.jpg 	 31 	 1.5293445587158203
+Caitlyn_28.jpg 	 Caitlyn_28.jpg 	 60 	 1.672377109527588
+Caitlyn_3.jpg 	  	 0 	 0.7211830615997314
+Caitlyn_4.jpg 	 Caitlyn_4.jpg 	 129 	 0.20059609413146973
+Caitlyn_5.jpg 	 Caitlyn_5.jpg 	 40 	 1.3222975730895996
+Caitlyn_6.jpg 	 Caitlyn_6.jpg 	 67 	 1.4063172340393066
+Camille_0.jpg 	 Camille_0.jpg 	 2 	 0.9992289543151855
+Camille_1.jpg 	 Camille_1.jpg 	 45 	 1.323293685913086
+Camille_10.jpg 	 Camille_10.jpg 	 2 	 0.8662235736846924
+Camille_11.jpg 	 Camille_11.jpg 	 34 	 1.2002537250518799
+Camille_2.jpg 	 Camille_2.jpg 	 5 	 1.097245454788208
+Cassiopeia_0.jpg 	 Cassiopeia_0.jpg 	 4 	 1.0212321281433105
+Cassiopeia_1.jpg 	  	 0 	 0.7301764488220215
+Cassiopeia_18.jpg 	 Cassiopeia_18.jpg 	 18 	 1.140242099761963
+Cassiopeia_2.jpg 	 Cassiopeia_2.jpg 	 118 	 0.21204900741577148
+Cassiopeia_3.jpg 	 Cassiopeia_3.jpg 	 10 	 1.0672392845153809
+Cassiopeia_4.jpg 	 Cassiopeia_4.jpg 	 19 	 1.1922707557678223
+Cassiopeia_8.jpg 	 Cassiopeia_8.jpg 	 9 	 1.0522363185882568
+Cassiopeia_9.jpg 	 Cassiopeia_9.jpg 	 7 	 1.004225254058838
+Chogath_0.jpg 	 Chogath_0.jpg 	 233 	 0.28104400634765625
+Chogath_1.jpg 	 Chogath_1.jpg 	 5 	 0.9299397468566895
+Chogath_14.jpg 	 Chogath_14.jpg 	 13 	 1.1142542362213135
+Chogath_2.jpg 	 Chogath_2.jpg 	 4 	 0.8941991329193115
+Chogath_3.jpg 	 Chogath_3.jpg 	 53 	 1.3202972412109375
+Chogath_4.jpg 	  	 0 	 0.7511885166168213
+Chogath_5.jpg 	 Chogath_5.jpg 	 186 	 0.2746541500091553
+Chogath_6.jpg 	 Chogath_6.jpg 	 17 	 1.2952914237976074
+Chogath_7.jpg 	 Chogath_7.jpg 	 27 	 1.3192977905273438
+Corki_0.jpg 	 Corki_0.jpg 	 18 	 1.2035329341888428
+Corki_1.jpg 	 Corki_1.jpg 	 172 	 0.28206372261047363
+Corki_18.jpg 	 Corki_18.jpg 	 107 	 0.24909377098083496
+Corki_2.jpg 	 Corki_2.jpg 	 10 	 1.0493600368499756
+Corki_26.jpg 	  	 0 	 0.7061789035797119
+Corki_3.jpg 	  	 0 	 0.8041808605194092
+Corki_4.jpg 	 Corki_4.jpg 	 231 	 0.29204607009887695
+Corki_5.jpg 	 Corki_5.jpg 	 107 	 0.23205280303955078
+Corki_6.jpg 	 Corki_6.jpg 	 2 	 0.8442051410675049
+Corki_7.jpg 	 Corki_7.jpg 	 35 	 1.2447748184204102
+Corki_8.jpg 	  	 0 	 0.6961989402770996
+Darius_0.jpg 	 Darius_0.jpg 	 196 	 0.2850642204284668
+Darius_1.jpg 	  	 0 	 0.6811840534210205
+Darius_14.jpg 	 Darius_14.jpg 	 7 	 1.1208736896514893
+Darius_15.jpg 	 Darius_15.jpg 	 12 	 1.039651870727539
+Darius_16.jpg 	 Darius_16.jpg 	 6 	 0.9641745090484619
+Darius_2.jpg 	  	 0 	 0.8232767581939697
+Darius_24.jpg 	 Darius_24.jpg 	 139 	 0.2570507526397705
+Darius_3.jpg 	  	 0 	 0.7883279323577881
+Darius_33.jpg 	 Darius_33.jpg 	 212 	 0.3070557117462158
+Darius_4.jpg 	  	 0 	 0.7221822738647461
+Darius_8.jpg 	 Darius_8.jpg 	 7 	 1.075223445892334
+Diana_0.jpg 	 Diana_0.jpg 	 42 	 1.3232972621917725
+Diana_1.jpg 	 Diana_1.jpg 	 3 	 0.8852138519287109
+Diana_11.jpg 	 Diana_11.jpg 	 58 	 1.3443024158477783
+Diana_12.jpg 	 Ashe_2.jpg 	 2 	 0.8902015686035156
+Diana_18.jpg 	  	 0 	 0.7291710376739502
+Diana_2.jpg 	  	 0 	 0.8522603511810303
+Diana_25.jpg 	 Diana_25.jpg 	 85 	 1.451751470565796
+Diana_26.jpg 	 Aphelios_9.jpg 	 2 	 0.8351879119873047
+Diana_27.jpg 	  	 0 	 0.7271833419799805
+Diana_3.jpg 	 Diana_3.jpg 	 127 	 0.26111268997192383
+Draven_0.jpg 	  	 0 	 0.6841673851013184
+Draven_1.jpg 	 Draven_1.jpg 	 1 	 0.7511749267578125
+Draven_12.jpg 	 Draven_12.jpg 	 1 	 0.9041833877563477
+Draven_13.jpg 	 Draven_13.jpg 	 169 	 0.29306697845458984
+Draven_2.jpg 	 Draven_2.jpg 	 29 	 1.2362782955169678
+Draven_20.jpg 	  	 0 	 0.8151979446411133
+Draven_29.jpg 	  	 0 	 0.7871823310852051
+Draven_3.jpg 	 Draven_3.jpg 	 142 	 0.28104424476623535
+Draven_4.jpg 	 Draven_4.jpg 	 16 	 1.1352543830871582
+Draven_5.jpg 	 Draven_5.jpg 	 89 	 1.4133179187774658
+Draven_6.jpg 	 Draven_6.jpg 	 13 	 1.142258882522583
+DrMundo_0.jpg 	 DrMundo_0.jpg 	 42 	 1.2372782230377197
+DrMundo_1.jpg 	  	 0 	 0.6601624488830566
+DrMundo_10.jpg 	 DrMundo_10.jpg 	 27 	 1.2012574672698975
+DrMundo_2.jpg 	 DrMundo_2.jpg 	 9 	 1.0832431316375732
+DrMundo_3.jpg 	 DrMundo_3.jpg 	 98 	 1.4613285064697266
+DrMundo_4.jpg 	 DrMundo_4.jpg 	 1 	 0.8131837844848633
+DrMundo_5.jpg 	 DrMundo_5.jpg 	 19 	 1.152259111404419
+DrMundo_6.jpg 	 DrMundo_6.jpg 	 3 	 0.9612164497375488
+DrMundo_7.jpg 	 DrMundo_7.jpg 	 132 	 0.2870633602142334
+DrMundo_8.jpg 	 DrMundo_8.jpg 	 85 	 1.4503285884857178
+DrMundo_9.jpg 	 DrMundo_9.jpg 	 81 	 1.5893583297729492
+Ekko_0.jpg 	 Ekko_0.jpg 	 22 	 1.2547690868377686
+Ekko_1.jpg 	  	 0 	 0.8872194290161133
+Ekko_11.jpg 	 Ekko_11.jpg 	 20 	 1.184248447418213
+Ekko_12.jpg 	 Ekko_12.jpg 	 70 	 1.3723068237304688
+Ekko_19.jpg 	  	 0 	 0.7071797847747803
+Ekko_2.jpg 	 Ekko_2.jpg 	 130 	 0.320051908493042
+Ekko_28.jpg 	 Ekko_28.jpg 	 47 	 1.3313007354736328
+Ekko_3.jpg 	 Ekko_3.jpg 	 80 	 1.4973368644714355
+Elise_0.jpg 	  	 0 	 0.735184907913208
+Elise_1.jpg 	 Elise_1.jpg 	 115 	 0.30804991722106934
+Elise_2.jpg 	  	 0 	 0.6701555252075195
+Elise_3.jpg 	  	 0 	 0.7631683349609375
+Elise_4.jpg 	  	 0 	 0.7722029685974121
+Elise_5.jpg 	 Elise_5.jpg 	 66 	 1.4423134326934814
+Elise_6.jpg 	 Elise_6.jpg 	 131 	 0.31307244300842285
+Evelynn_0.jpg 	 Evelynn_0.jpg 	 10 	 1.0462355613708496
+Evelynn_1.jpg 	  	 0 	 0.8502099514007568
+Evelynn_15.jpg 	 Evelynn_15.jpg 	 5 	 1.0002233982086182
+Evelynn_2.jpg 	 Aatrox_1.jpg 	 2 	 0.8662154674530029
+Evelynn_24.jpg 	 Evelynn_24.jpg 	 4 	 0.8631935119628906
+Evelynn_3.jpg 	 Evelynn_3.jpg 	 41 	 1.2282562255859375
+Evelynn_4.jpg 	 Evelynn_4.jpg 	 62 	 1.3333001136779785
+Evelynn_5.jpg 	 Aatrox_1.jpg 	 4 	 0.8602361679077148
+Evelynn_6.jpg 	 Evelynn_6.jpg 	 144 	 0.3250586986541748
+Evelynn_7.jpg 	 Evelynn_7.jpg 	 21 	 1.2182765007019043
+Evelynn_8.jpg 	  	 0 	 0.724174976348877
+Ezreal_0.jpg 	 Ezreal_0.jpg 	 70 	 1.3612921237945557
+Ezreal_1.jpg 	 Ezreal_1.jpg 	 23 	 1.1792681217193604
+Ezreal_18.jpg 	 Ezreal_18.jpg 	 81 	 1.4293217658996582
+Ezreal_19.jpg 	 Ezreal_19.jpg 	 1 	 0.8562130928039551
+Ezreal_2.jpg 	 Ezreal_2.jpg 	 2 	 0.8131940364837646
+Ezreal_20.jpg 	 Corki_1.jpg 	 1 	 0.8631904125213623
+Ezreal_21.jpg 	 Ezreal_21.jpg 	 1 	 0.8431861400604248
+Ezreal_22.jpg 	 Ezreal_22.jpg 	 1 	 0.8581788539886475
+Ezreal_23.jpg 	 Ezreal_23.jpg 	 2 	 0.8582115173339844
+Ezreal_3.jpg 	 Ezreal_3.jpg 	 67 	 1.407299518585205
+Ezreal_4.jpg 	 Ezreal_4.jpg 	 1 	 0.8441352844238281
+Ezreal_5.jpg 	 Ezreal_5.jpg 	 158 	 0.3649165630340576
+Ezreal_6.jpg 	 Ezreal_6.jpg 	 99 	 1.5286555290222168
+Ezreal_7.jpg 	 Ezreal_7.jpg 	 251 	 0.41109275817871094
+Ezreal_8.jpg 	  	 0 	 0.85221266746521
+Ezreal_9.jpg 	 Ezreal_9.jpg 	 60 	 1.3472826480865479
+FiddleSticks_0.jpg 	 FiddleSticks_0.jpg 	 65 	 1.358306646347046
+FiddleSticks_1.jpg 	 FiddleSticks_1.jpg 	 20 	 1.1342556476593018
+FiddleSticks_2.jpg 	 FiddleSticks_2.jpg 	 1 	 0.7881960868835449
+FiddleSticks_3.jpg 	 FiddleSticks_3.jpg 	 2 	 0.8641953468322754
+FiddleSticks_4.jpg 	 FiddleSticks_4.jpg 	 34 	 1.2442786693572998
+FiddleSticks_5.jpg 	  	 0 	 0.6901752948760986
+FiddleSticks_6.jpg 	 FiddleSticks_6.jpg 	 15 	 1.168245553970337
+FiddleSticks_7.jpg 	 FiddleSticks_7.jpg 	 16 	 1.1742627620697021
+FiddleSticks_8.jpg 	 FiddleSticks_8.jpg 	 83 	 1.431321382522583
+FiddleSticks_9.jpg 	 FiddleSticks_9.jpg 	 19 	 1.179264783859253
+Fiora_0.jpg 	 Fiora_0.jpg 	 111 	 0.3670825958251953
+Fiora_1.jpg 	 Fiora_1.jpg 	 193 	 0.4010915756225586
+Fiora_2.jpg 	 Fiora_2.jpg 	 4 	 0.8881983757019043
+Fiora_22.jpg 	 Fiora_22.jpg 	 13 	 1.1492607593536377
+Fiora_23.jpg 	 Fiora_23.jpg 	 57 	 1.3342998027801514
+Fiora_3.jpg 	 Fiora_3.jpg 	 106 	 0.3270723819732666
+Fiora_31.jpg 	 Blitzcrank_7.jpg 	 1 	 0.8562138080596924
+Fiora_4.jpg 	 Fiora_4.jpg 	 110 	 0.33005404472351074
+Fiora_41.jpg 	 Fiora_41.jpg 	 9 	 0.9682190418243408
+Fiora_5.jpg 	 Fiora_5.jpg 	 2 	 0.879197359085083
+Fiora_50.jpg 	 Fiora_50.jpg 	 27 	 1.2275402545928955
+Fiora_51.jpg 	 Fiora_51.jpg 	 82 	 1.3503031730651855
+Fiora_60.jpg 	  	 0 	 0.717249870300293
+Fizz_0.jpg 	 Fizz_0.jpg 	 74 	 1.3472847938537598
+Fizz_1.jpg 	  	 0 	 0.6431629657745361
+Fizz_10.jpg 	  	 0 	 0.6501462459564209
+Fizz_14.jpg 	 Fizz_14.jpg 	 166 	 0.4000701904296875
+Fizz_15.jpg 	 Fizz_15.jpg 	 144 	 0.3870885372161865
+Fizz_16.jpg 	 Fizz_16.jpg 	 3 	 1.0902454853057861
+Fizz_2.jpg 	  	 0 	 0.6612129211425781
+Fizz_3.jpg 	 Fizz_3.jpg 	 3 	 1.0302114486694336
+Fizz_4.jpg 	 Fizz_4.jpg 	 73 	 1.4283215999603271
+Fizz_8.jpg 	  	 0 	 0.7231667041778564
+Fizz_9.jpg 	 Fizz_9.jpg 	 42 	 1.2512788772583008
+Galio_0.jpg 	 Aatrox_0.jpg 	 1 	 0.7711873054504395
+Galio_1.jpg 	 Galio_1.jpg 	 185 	 0.44608569145202637
+Galio_13.jpg 	  	 0 	 0.6471638679504395
+Galio_19.jpg 	 Galio_19.jpg 	 28 	 1.1862499713897705
+Galio_2.jpg 	  	 0 	 0.6521522998809814
+Galio_3.jpg 	 Galio_3.jpg 	 29 	 1.2182691097259521
+Galio_4.jpg 	 Galio_4.jpg 	 1 	 0.824185848236084
+Galio_5.jpg 	 Galio_5.jpg 	 150 	 0.4300966262817383
+Galio_6.jpg 	 Galio_6.jpg 	 91 	 1.4253201484680176
+Gangplank_0.jpg 	 Gangplank_0.jpg 	 229 	 0.4941115379333496
+Gangplank_1.jpg 	  	 0 	 0.6831676959991455
+Gangplank_14.jpg 	 Gangplank_14.jpg 	 227 	 0.47809362411499023
+Gangplank_2.jpg 	 Gangplank_2.jpg 	 9 	 1.0672407150268555
+Gangplank_21.jpg 	 Gangplank_21.jpg 	 4 	 0.9886951446533203
+Gangplank_3.jpg 	  	 0 	 0.7321774959564209
+Gangplank_4.jpg 	 Gangplank_4.jpg 	 11 	 1.0742285251617432
+Gangplank_5.jpg 	 Gangplank_5.jpg 	 4 	 0.9563882350921631
+Gangplank_6.jpg 	 Gangplank_6.jpg 	 70 	 1.3941409587860107
+Gangplank_7.jpg 	  	 0 	 0.6781682968139648
+Gangplank_8.jpg 	  	 0 	 0.6801550388336182
+Garen_0.jpg 	 Garen_0.jpg 	 29 	 1.1782221794128418
+Garen_1.jpg 	 Garen_1.jpg 	 25 	 1.3142938613891602
+Garen_10.jpg 	 Garen_10.jpg 	 41 	 1.342301845550537
+Garen_11.jpg 	 Garen_11.jpg 	 149 	 0.4230959415435791
+Garen_13.jpg 	 Garen_13.jpg 	 80 	 1.4813334941864014
+Garen_14.jpg 	  	 0 	 0.8036506175994873
+Garen_2.jpg 	 Garen_2.jpg 	 122 	 0.3940701484680176
+Garen_22.jpg 	 Garen_22.jpg 	 8 	 1.0032262802124023
+Garen_23.jpg 	  	 0 	 0.896230936050415
+Garen_24.jpg 	 Garen_24.jpg 	 5 	 1.0232295989990234
+Garen_3.jpg 	 Garen_3.jpg 	 62 	 1.3523039817810059
+Garen_4.jpg 	 Garen_4.jpg 	 194 	 0.44609832763671875
+Garen_5.jpg 	 Garen_5.jpg 	 109 	 0.3810858726501465
+Garen_6.jpg 	 Garen_6.jpg 	 82 	 1.4523279666900635
+Gnar_0.jpg 	 Gnar_0.jpg 	 64 	 1.3202972412109375
+Gnar_1.jpg 	 Gnar_1.jpg 	 77 	 1.380310297012329
+Gnar_13.jpg 	 Gnar_13.jpg 	 72 	 1.377309799194336
+Gnar_14.jpg 	 Gnar_14.jpg 	 217 	 0.4971129894256592
+Gnar_15.jpg 	 Gnar_15.jpg 	 114 	 0.37708568572998047
+Gnar_2.jpg 	  	 0 	 0.8531935214996338
+Gnar_3.jpg 	 Gnar_3.jpg 	 67 	 1.4293203353881836
+Gnar_4.jpg 	 Gnar_4.jpg 	 68 	 1.4763336181640625
+Gragas_0.jpg 	 Gragas_0.jpg 	 40 	 1.347301721572876
+Gragas_1.jpg 	 Gragas_1.jpg 	 1 	 0.8962013721466064
+Gragas_10.jpg 	 Gragas_10.jpg 	 9 	 1.029233694076538
+Gragas_11.jpg 	 Gragas_11.jpg 	 51 	 1.3272984027862549
+Gragas_2.jpg 	 Gragas_2.jpg 	 11 	 1.0752427577972412
+Gragas_3.jpg 	  	 0 	 0.7171897888183594
+Gragas_4.jpg 	  	 0 	 0.67215895652771
+Gragas_5.jpg 	 Gragas_5.jpg 	 27 	 1.2722673416137695
+Gragas_6.jpg 	 Gragas_6.jpg 	 5 	 0.964216947555542
+Gragas_7.jpg 	 Gragas_7.jpg 	 245 	 0.5361204147338867
+Gragas_8.jpg 	 Gragas_8.jpg 	 12 	 1.0282318592071533
+Gragas_9.jpg 	 Gragas_9.jpg 	 77 	 1.4023058414459229
+Graves_0.jpg 	 Graves_0.jpg 	 15 	 1.139258861541748
+Graves_1.jpg 	 Graves_1.jpg 	 56 	 1.4023144245147705
+Graves_14.jpg 	 Graves_14.jpg 	 44 	 1.3443021774291992
+Graves_18.jpg 	 Aatrox_2.jpg 	 2 	 0.8592836856842041
+Graves_2.jpg 	 Graves_2.jpg 	 197 	 0.5020949840545654
+Graves_25.jpg 	 Graves_25.jpg 	 26 	 1.217275857925415
+Graves_3.jpg 	  	 0 	 0.7241683006286621
+Graves_35.jpg 	 Graves_35.jpg 	 151 	 0.4400937557220459
+Graves_4.jpg 	 Graves_4.jpg 	 47 	 1.2712855339050293
+Graves_5.jpg 	 Aatrox_0.jpg 	 1 	 0.8422908782958984
+Graves_6.jpg 	  	 0 	 0.8241961002349854
+Graves_7.jpg 	 Graves_7.jpg 	 33 	 1.2065014839172363
+Gwen_0.jpg 	 Gwen_0.jpg 	 3 	 0.8752098083496094
+Gwen_1.jpg 	 Gwen_1.jpg 	 141 	 0.4541492462158203
+Gwen_11.jpg 	 Gwen_11.jpg 	 21 	 1.1883440017700195
+Hecarim_0.jpg 	 Hecarim_0.jpg 	 143 	 0.44431209564208984
+Hecarim_1.jpg 	  	 0 	 0.6691691875457764
+Hecarim_14.jpg 	 Hecarim_14.jpg 	 3 	 0.8311676979064941
+Hecarim_2.jpg 	  	 0 	 0.7471883296966553
+Hecarim_3.jpg 	 Hecarim_3.jpg 	 1 	 0.786308765411377
+Hecarim_4.jpg 	 Hecarim_4.jpg 	 131 	 0.46813154220581055
+Hecarim_5.jpg 	 Hecarim_5.jpg 	 189 	 0.5181288719177246
+Hecarim_6.jpg 	  	 0 	 0.723196268081665
+Hecarim_7.jpg 	 Hecarim_7.jpg 	 9 	 1.098268747329712
+Hecarim_8.jpg 	  	 0 	 0.7011740207672119
+Heimerdinger_0.jpg 	 Heimerdinger_0.jpg 	 62 	 1.4333045482635498
+Heimerdinger_1.jpg 	  	 0 	 0.7621893882751465
+Heimerdinger_15.jpg 	 Heimerdinger_15.jpg 	 6 	 1.0012109279632568
+Heimerdinger_2.jpg 	 Heimerdinger_2.jpg 	 22 	 1.2092700004577637
+Heimerdinger_3.jpg 	 Heimerdinger_3.jpg 	 163 	 0.4881103038787842
+Heimerdinger_4.jpg 	 Heimerdinger_4.jpg 	 189 	 0.5201172828674316
+Heimerdinger_5.jpg 	 Heimerdinger_5.jpg 	 61 	 1.3953139781951904
+Heimerdinger_6.jpg 	  	 0 	 0.6931612491607666
+Illaoi_0.jpg 	 Illaoi_0.jpg 	 12 	 1.1101782321929932
+Illaoi_1.jpg 	 Illaoi_1.jpg 	 39 	 1.250554084777832
+Illaoi_10.jpg 	 Illaoi_10.jpg 	 26 	 1.173264980316162
+Illaoi_2.jpg 	 Illaoi_2.jpg 	 93 	 1.6315665245056152
+Irelia_0.jpg 	 Irelia_0.jpg 	 65 	 1.5612998008728027
+Irelia_1.jpg 	 Irelia_1.jpg 	 48 	 1.834411382675171
+Irelia_15.jpg 	 Irelia_15.jpg 	 4 	 1.2972023487091064
+Irelia_16.jpg 	  	 0 	 0.8134591579437256
+Irelia_17.jpg 	 Irelia_17.jpg 	 125 	 0.6264045238494873
+Irelia_18.jpg 	 Irelia_18.jpg 	 31 	 1.5403475761413574
+Irelia_2.jpg 	 Irelia_2.jpg 	 28 	 1.5573515892028809
+Irelia_26.jpg 	 Irelia_26.jpg 	 16 	 1.5468065738677979
+Irelia_3.jpg 	 Irelia_3.jpg 	 5 	 1.348304271697998
+Irelia_4.jpg 	 Irelia_4.jpg 	 14 	 1.5044059753417969
+Irelia_5.jpg 	 Irelia_5.jpg 	 9 	 1.5366461277008057
+Irelia_6.jpg 	 Irelia_6.jpg 	 1 	 1.3153162002563477
+Ivern_0.jpg 	 Ivern_0.jpg 	 44 	 1.6203663349151611
+Ivern_1.jpg 	 Ivern_1.jpg 	 296 	 0.9552140235900879
+Ivern_11.jpg 	 Ivern_11.jpg 	 55 	 1.8304123878479004
+Ivern_2.jpg 	 Ivern_2.jpg 	 38 	 1.584360122680664
+Janna_0.jpg 	 Janna_0.jpg 	 191 	 0.7651684284210205
+Janna_1.jpg 	 Janna_1.jpg 	 12 	 1.4453256130218506
+Janna_13.jpg 	 Janna_13.jpg 	 152 	 0.7611711025238037
+Janna_2.jpg 	  	 0 	 1.0452368259429932
+Janna_20.jpg 	 Janna_20.jpg 	 15 	 1.546346664428711
+Janna_27.jpg 	 Janna_27.jpg 	 54 	 1.7163879871368408
+Janna_3.jpg 	 Janna_3.jpg 	 4 	 1.1112489700317383
+Janna_4.jpg 	 Janna_4.jpg 	 23 	 1.541346549987793
+Janna_5.jpg 	 Janna_5.jpg 	 3 	 1.2452831268310547
+Janna_6.jpg 	 Janna_6.jpg 	 2 	 1.280287742614746
+Janna_7.jpg 	 Janna_7.jpg 	 6 	 1.4383234977722168
+Janna_8.jpg 	 Janna_8.jpg 	 131 	 0.6981556415557861
+JarvanIV_0.jpg 	 JarvanIV_0.jpg 	 30 	 1.610363483428955
+JarvanIV_1.jpg 	  	 0 	 1.08524489402771
+JarvanIV_11.jpg 	 JarvanIV_11.jpg 	 15 	 1.5433473587036133
+JarvanIV_2.jpg 	 JarvanIV_2.jpg 	 31 	 1.5153419971466064
+JarvanIV_21.jpg 	 JarvanIV_21.jpg 	 86 	 1.7793996334075928
+JarvanIV_3.jpg 	 JarvanIV_3.jpg 	 12 	 1.3483054637908936
+JarvanIV_30.jpg 	 JarvanIV_30.jpg 	 64 	 1.872422456741333
+JarvanIV_4.jpg 	  	 0 	 1.0572359561920166
+JarvanIV_5.jpg 	 JarvanIV_5.jpg 	 6 	 1.233278751373291
+JarvanIV_6.jpg 	 JarvanIV_6.jpg 	 37 	 1.450782299041748
+JarvanIV_7.jpg 	 JarvanIV_7.jpg 	 125 	 0.6961574554443359
+JarvanIV_8.jpg 	 JarvanIV_8.jpg 	 38 	 1.5673513412475586
+JarvanIV_9.jpg 	  	 0 	 1.1382596492767334
+Jax_0.jpg 	 Blitzcrank_2.jpg 	 1 	 1.1292531490325928
+Jax_1.jpg 	 Jax_1.jpg 	 65 	 1.8434138298034668
+Jax_12.jpg 	 Jax_12.jpg 	 2 	 1.3282997608184814
+Jax_13.jpg 	 Jax_13.jpg 	 92 	 2.050459623336792
+Jax_14.jpg 	 Jax_14.jpg 	 123 	 0.6941571235656738
+Jax_2.jpg 	 Jax_2.jpg 	 226 	 0.9122059345245361
+Jax_20.jpg 	  	 0 	 1.1142516136169434
+Jax_21.jpg 	 Jax_21.jpg 	 92 	 2.120476245880127
+Jax_3.jpg 	  	 0 	 1.1162536144256592
+Jax_4.jpg 	 Jax_4.jpg 	 3 	 1.3843116760253906
+Jax_5.jpg 	 Jax_5.jpg 	 277 	 0.9227123260498047
+Jax_6.jpg 	 Jax_6.jpg 	 12 	 1.4718375205993652
+Jax_7.jpg 	 Jax_7.jpg 	 14 	 1.460399866104126
+Jax_8.jpg 	 Jax_8.jpg 	 5 	 1.3778221607208252
+Jayce_0.jpg 	  	 0 	 1.2432315349578857
+Jayce_1.jpg 	 Jayce_1.jpg 	 4 	 1.3278028964996338
+Jayce_15.jpg 	 Jayce_15.jpg 	 168 	 0.7781758308410645
+Jayce_2.jpg 	 Jayce_2.jpg 	 100 	 0.675152063369751
+Jayce_24.jpg 	 Jayce_24.jpg 	 91 	 2.0264554023742676
+Jayce_3.jpg 	  	 0 	 1.3305408954620361
+Jayce_4.jpg 	 Jayce_4.jpg 	 90 	 2.091470718383789
+Jayce_5.jpg 	 Jayce_5.jpg 	 40 	 1.7033872604370117
+Jhin_0.jpg 	 Jhin_0.jpg 	 50 	 1.7723956108093262
+Jhin_1.jpg 	 Jhin_1.jpg 	 21 	 1.5683526992797852
+Jhin_14.jpg 	 Jhin_14.jpg 	 36 	 1.7393910884857178
+Jhin_2.jpg 	  	 0 	 1.0783097743988037
+Jhin_23.jpg 	 Jhin_23.jpg 	 1 	 1.2823293209075928
+Jhin_3.jpg 	  	 0 	 1.0737173557281494
+Jhin_4.jpg 	 Jhin_4.jpg 	 51 	 1.8041207790374756
+Jhin_5.jpg 	 Jhin_5.jpg 	 30 	 1.609135627746582
+Jinx_0.jpg 	 Jinx_0.jpg 	 91 	 2.0594632625579834
+Jinx_1.jpg 	 AurelionSol_1.jpg 	 2 	 1.29573655128479
+Jinx_12.jpg 	 Jinx_12.jpg 	 61 	 1.9244344234466553
+Jinx_13.jpg 	 Jinx_13.jpg 	 8 	 1.428112268447876
+Jinx_2.jpg 	 Jinx_2.jpg 	 108 	 0.8109757900238037
+Jinx_20.jpg 	 Jinx_20.jpg 	 102 	 0.7681782245635986
+Jinx_29.jpg 	 Jinx_29.jpg 	 35 	 1.7152321338653564
+Jinx_3.jpg 	  	 0 	 1.1302547454833984
+Jinx_37.jpg 	 Jinx_37.jpg 	 2 	 1.1322541236877441
+Jinx_4.jpg 	 Jinx_4.jpg 	 17 	 1.4097316265106201
+Kaisa_0.jpg 	 Kaisa_0.jpg 	 92 	 2.081697702407837
+Kaisa_1.jpg 	 Kaisa_1.jpg 	 131 	 0.7941796779632568
+Kaisa_14.jpg 	 Kaisa_14.jpg 	 98 	 1.9140138626098633
+Kaisa_15.jpg 	 Kaisa_15.jpg 	 50 	 1.7295880317687988
+Kaisa_16.jpg 	 Kaisa_16.jpg 	 38 	 1.5703539848327637
+Kaisa_17.jpg 	 Kaisa_17.jpg 	 193 	 0.9429492950439453
+Kaisa_26.jpg 	  	 0 	 0.8942046165466309
+Kaisa_27.jpg 	 Kaisa_27.jpg 	 115 	 0.6435444355010986
+Kaisa_29.jpg 	 Kaisa_29.jpg 	 59 	 1.7653992176055908
+Kalista_0.jpg 	 Kalista_0.jpg 	 78 	 1.9227705001831055
+Kalista_1.jpg 	 Kalista_1.jpg 	 39 	 1.751068353652954
+Kalista_2.jpg 	 Kalista_2.jpg 	 61 	 1.912135362625122
+Kalista_3.jpg 	 Kalista_3.jpg 	 2 	 1.2482810020446777
+Kalista_5.jpg 	 Kalista_5.jpg 	 56 	 1.6221470832824707
+Karma_0.jpg 	 Karma_0.jpg 	 38 	 1.5686345100402832
+Karma_1.jpg 	  	 0 	 1.0605509281158447
+Karma_19.jpg 	  	 0 	 1.0937614440917969
+Karma_2.jpg 	 Karma_2.jpg 	 20 	 1.5330264568328857
+Karma_26.jpg 	 Ahri_0.jpg 	 1 	 1.346301555633545
+Karma_27.jpg 	 Karma_27.jpg 	 3 	 1.3232979774475098
+Karma_3.jpg 	 Karma_3.jpg 	 15 	 1.5893573760986328
+Karma_4.jpg 	  	 0 	 1.1192529201507568
+Karma_44.jpg 	  	 0 	 1.2332773208618164
+Karma_5.jpg 	 Karma_5.jpg 	 2 	 1.426323413848877
+Karma_6.jpg 	 Karma_6.jpg 	 125 	 0.7802369594573975
+Karma_7.jpg 	 Karma_7.jpg 	 19 	 1.4903392791748047
+Karma_8.jpg 	 Karma_8.jpg 	 27 	 1.7043828964233398
+Karthus_0.jpg 	 Karthus_0.jpg 	 36 	 1.636368989944458
+Karthus_1.jpg 	 Karthus_1.jpg 	 51 	 1.84041428565979
+Karthus_10.jpg 	 Karthus_10.jpg 	 38 	 1.6333677768707275
+Karthus_17.jpg 	 Karthus_17.jpg 	 41 	 1.7158827781677246
+Karthus_2.jpg 	 Karthus_2.jpg 	 9 	 1.4053447246551514
+Karthus_3.jpg 	 Karthus_3.jpg 	 20 	 1.6403679847717285
+Karthus_4.jpg 	 Karthus_4.jpg 	 44 	 1.7743988037109375
+Karthus_5.jpg 	  	 0 	 1.0822441577911377
+Karthus_9.jpg 	 Karthus_9.jpg 	 2 	 1.2782881259918213
+Kassadin_0.jpg 	 Kassadin_0.jpg 	 244 	 1.1812665462493896
+Kassadin_1.jpg 	 Kassadin_1.jpg 	 167 	 0.899564266204834
+Kassadin_14.jpg 	 Kassadin_14.jpg 	 109 	 0.7811751365661621
+Kassadin_2.jpg 	 Kassadin_2.jpg 	 5 	 1.4455242156982422
+Kassadin_3.jpg 	 Kassadin_3.jpg 	 6 	 1.3943164348602295
+Kassadin_4.jpg 	 Kassadin_4.jpg 	 34 	 1.6463680267333984
+Kassadin_5.jpg 	 Kassadin_5.jpg 	 104 	 0.6391439437866211
+Kassadin_6.jpg 	 Kassadin_6.jpg 	 121 	 0.6151373386383057
+Katarina_0.jpg 	 Katarina_0.jpg 	 130 	 0.6951632499694824
+Katarina_1.jpg 	  	 0 	 0.8451852798461914
+Katarina_10.jpg 	 Katarina_10.jpg 	 24 	 1.4903361797332764
+Katarina_12.jpg 	 Katarina_12.jpg 	 49 	 1.4357202053070068
+Katarina_2.jpg 	  	 0 	 0.8204011917114258
+Katarina_21.jpg 	  	 0 	 1.106752634048462
+Katarina_29.jpg 	 Katarina_29.jpg 	 6 	 1.470587968826294
+Katarina_3.jpg 	 Katarina_3.jpg 	 10 	 1.4497556686401367
+Katarina_4.jpg 	  	 0 	 1.1219866275787354
+Katarina_5.jpg 	 Katarina_5.jpg 	 2 	 1.3543305397033691
+Katarina_6.jpg 	 Katarina_6.jpg 	 7 	 1.3603119850158691
+Katarina_7.jpg 	 Katarina_7.jpg 	 41 	 1.930436372756958
+Katarina_8.jpg 	  	 0 	 1.286290168762207
+Katarina_9.jpg 	 Katarina_9.jpg 	 101 	 0.7761745452880859
+Kayle_0.jpg 	 Kayle_0.jpg 	 210 	 0.9872229099273682
+Kayle_1.jpg 	 Kayle_1.jpg 	 1 	 1.2352805137634277
+Kayle_15.jpg 	 Kayle_15.jpg 	 6 	 1.328568458557129
+Kayle_2.jpg 	 Kayle_2.jpg 	 99 	 2.2446305751800537
+Kayle_24.jpg 	 Kayle_24.jpg 	 3 	 1.354966640472412
+Kayle_3.jpg 	 Kayle_3.jpg 	 144 	 0.9797325134277344
+Kayle_33.jpg 	 Kayle_33.jpg 	 1 	 1.286449909210205
+Kayle_4.jpg 	 Kayle_4.jpg 	 18 	 1.554940938949585
+Kayle_5.jpg 	  	 0 	 1.06831693649292
+Kayle_6.jpg 	 Kayle_6.jpg 	 22 	 1.658323049545288
+Kayle_7.jpg 	 Kayle_7.jpg 	 44 	 1.7906932830810547
+Kayle_8.jpg 	 Kayle_8.jpg 	 185 	 0.9710516929626465
+Kayle_9.jpg 	 Kayle_9.jpg 	 31 	 1.5976624488830566
+Kayn_0.jpg 	  	 0 	 1.1382598876953125
+Kayn_1.jpg 	 Kayn_1.jpg 	 10 	 1.2922906875610352
+Kayn_2.jpg 	 Kayn_2.jpg 	 152 	 0.7681729793548584
+Kayn_8.jpg 	 Kayn_8.jpg 	 6 	 1.3533053398132324
+Kayn_9.jpg 	 Kayn_9.jpg 	 1 	 1.2735505104064941
+Kennen_0.jpg 	 Kennen_0.jpg 	 23 	 1.6513707637786865
+Kennen_1.jpg 	 Kennen_1.jpg 	 78 	 2.1164543628692627
+Kennen_2.jpg 	 Kennen_2.jpg 	 195 	 0.9994843006134033
+Kennen_23.jpg 	 Kennen_23.jpg 	 2 	 1.2942919731140137
+Kennen_3.jpg 	  	 0 	 1.1252541542053223
+Kennen_4.jpg 	  	 0 	 1.1122491359710693
+Kennen_5.jpg 	  	 0 	 1.0602412223815918
+Kennen_6.jpg 	  	 0 	 1.0632367134094238
+Kennen_7.jpg 	 Kennen_7.jpg 	 28 	 1.547349452972412
+Kennen_8.jpg 	 Kennen_8.jpg 	 97 	 1.6933798789978027
+Khazix_0.jpg 	  	 0 	 1.1152527332305908
+Khazix_1.jpg 	 Khazix_1.jpg 	 110 	 0.8501901626586914
+Khazix_11.jpg 	 Khazix_11.jpg 	 4 	 1.3803114891052246
+Khazix_2.jpg 	 Khazix_2.jpg 	 3 	 1.3393018245697021
+Khazix_3.jpg 	 Khazix_3.jpg 	 112 	 0.8882007598876953
+Khazix_4.jpg 	 Khazix_4.jpg 	 11 	 1.3503036499023438
+Khazix_60.jpg 	  	 0 	 1.1822669506072998
+Kindred_0.jpg 	  	 0 	 1.0262422561645508
+Kindred_1.jpg 	 Kindred_1.jpg 	 129 	 0.7441744804382324
+Kindred_2.jpg 	 Kindred_2.jpg 	 27 	 1.4343230724334717
+Kindred_3.jpg 	 Kindred_3.jpg 	 17 	 1.5093400478363037
+Kled_0.jpg 	 Kled_0.jpg 	 109 	 0.903203010559082
+Kled_1.jpg 	 Kled_1.jpg 	 13 	 1.540541410446167
+Kled_2.jpg 	 Kled_2.jpg 	 3 	 1.4513261318206787
+Kled_9.jpg 	 Kled_9.jpg 	 5 	 1.474339485168457
+KogMaw_0.jpg 	 KogMaw_0.jpg 	 19 	 1.5930242538452148
+KogMaw_1.jpg 	  	 0 	 1.0689082145690918
+KogMaw_10.jpg 	 Evelynn_5.jpg 	 1 	 1.062239408493042
+KogMaw_19.jpg 	 KogMaw_19.jpg 	 42 	 1.4613287448883057
+KogMaw_2.jpg 	 KogMaw_2.jpg 	 156 	 0.9352090358734131
+KogMaw_28.jpg 	 KogMaw_28.jpg 	 35 	 1.6083624362945557
+KogMaw_3.jpg 	  	 0 	 1.1602625846862793
+KogMaw_4.jpg 	 KogMaw_4.jpg 	 130 	 0.9652152061462402
+KogMaw_5.jpg 	 KogMaw_5.jpg 	 226 	 1.1612629890441895
+KogMaw_6.jpg 	 KogMaw_6.jpg 	 88 	 2.2915163040161133
+KogMaw_7.jpg 	  	 0 	 1.1582627296447754
+KogMaw_8.jpg 	 KogMaw_8.jpg 	 77 	 2.03145432472229
+KogMaw_9.jpg 	 KogMaw_9.jpg 	 65 	 1.9064323902130127
+Leblanc_0.jpg 	 Leblanc_0.jpg 	 32 	 1.7543926239013672
+Leblanc_1.jpg 	 Leblanc_1.jpg 	 1 	 1.096250295639038
+Leblanc_12.jpg 	  	 0 	 1.2242722511291504
+Leblanc_19.jpg 	 Leblanc_19.jpg 	 1 	 1.24428129196167
+Leblanc_2.jpg 	 Teemo_2.jpg 	 5 	 1.3132939338684082
+Leblanc_20.jpg 	 Leblanc_20.jpg 	 32 	 1.7593965530395508
+Leblanc_29.jpg 	 Leblanc_29.jpg 	 1 	 1.2462825775146484
+Leblanc_3.jpg 	  	 0 	 1.1972687244415283
+Leblanc_33.jpg 	  	 0 	 1.2112720012664795
+Leblanc_35.jpg 	 Leblanc_35.jpg 	 35 	 1.690380573272705
+Leblanc_4.jpg 	 Leblanc_4.jpg 	 11 	 1.5013396739959717
+Leblanc_5.jpg 	 Leblanc_5.jpg 	 81 	 2.0114524364471436
+LeeSin_0.jpg 	 LeeSin_0.jpg 	 8 	 1.456329107284546
+LeeSin_1.jpg 	 LeeSin_1.jpg 	 10 	 1.5143394470214844
+LeeSin_10.jpg 	 LeeSin_10.jpg 	 30 	 1.5913608074188232
+LeeSin_11.jpg 	  	 0 	 0.8671953678131104
+LeeSin_12.jpg 	 LeeSin_12.jpg 	 193 	 1.027245283126831
+LeeSin_2.jpg 	  	 0 	 1.1472587585449219
+LeeSin_27.jpg 	  	 0 	 1.1072523593902588
+LeeSin_28.jpg 	 LeeSin_28.jpg 	 2 	 1.2443804740905762
+LeeSin_29.jpg 	  	 0 	 1.2052719593048096
+LeeSin_3.jpg 	 LeeSin_3.jpg 	 94 	 2.037461042404175
+LeeSin_31.jpg 	 LeeSin_31.jpg 	 55 	 1.8164048194885254
+LeeSin_4.jpg 	 LeeSin_4.jpg 	 144 	 1.0252354145050049
+LeeSin_5.jpg 	 LeeSin_5.jpg 	 64 	 2.0884673595428467
+LeeSin_6.jpg 	  	 0 	 1.1937835216522217
+Leona_0.jpg 	  	 0 	 1.387315273284912
+Leona_1.jpg 	 Leona_1.jpg 	 252 	 1.3108937740325928
+Leona_10.jpg 	 Leona_10.jpg 	 154 	 1.243279218673706
+Leona_11.jpg 	 Leona_11.jpg 	 36 	 2.3855388164520264
+Leona_12.jpg 	  	 0 	 1.3863167762756348
+Leona_2.jpg 	 Leona_2.jpg 	 36 	 1.919433832168579
+Leona_21.jpg 	 Leona_21.jpg 	 254 	 1.3423011302947998
+Leona_22.jpg 	  	 0 	 1.4203224182128906
+Leona_23.jpg 	 Leona_23.jpg 	 3 	 1.625363826751709
+Leona_3.jpg 	 Leona_3.jpg 	 71 	 2.1564855575561523
+Leona_33.jpg 	 Leona_33.jpg 	 163 	 1.1695361137390137
+Leona_4.jpg 	 Leona_4.jpg 	 119 	 1.053239107131958
+Leona_8.jpg 	  	 0 	 1.4866909980773926
+Leona_9.jpg 	 Leona_9.jpg 	 68 	 2.2033514976501465
+Lillia_0.jpg 	  	 0 	 1.2067837715148926
+Lillia_1.jpg 	 Lillia_1.jpg 	 14 	 1.6373693943023682
+Lillia_10.jpg 	 Lillia_10.jpg 	 44 	 2.0359718799591064
+Lissandra_0.jpg 	 Lissandra_0.jpg 	 2 	 1.4802169799804688
+Lissandra_1.jpg 	 Lissandra_1.jpg 	 5 	 1.436323642730713
+Lissandra_12.jpg 	 Lissandra_12.jpg 	 35 	 1.7914032936096191
+Lissandra_2.jpg 	 Lissandra_2.jpg 	 25 	 1.7437286376953125
+Lissandra_3.jpg 	 Lissandra_3.jpg 	 63 	 1.8254103660583496
+Lissandra_4.jpg 	 Lissandra_4.jpg 	 162 	 1.1872673034667969
+Lucian_0.jpg 	 Lucian_0.jpg 	 20 	 1.7924036979675293
+Lucian_1.jpg 	 Lucian_1.jpg 	 175 	 1.1652631759643555
+Lucian_18.jpg 	 Lucian_18.jpg 	 4 	 1.3539235591888428
+Lucian_19.jpg 	 Lucian_19.jpg 	 41 	 1.752314805984497
+Lucian_2.jpg 	 Lucian_2.jpg 	 8 	 1.3803141117095947
+Lucian_25.jpg 	 Lucian_25.jpg 	 197 	 0.9992227554321289
+Lucian_31.jpg 	 Lucian_31.jpg 	 178 	 1.0542373657226562
+Lucian_6.jpg 	  	 0 	 1.070244312286377
+Lucian_7.jpg 	 Lucian_7.jpg 	 7 	 1.5093393325805664
+Lucian_8.jpg 	 Lucian_8.jpg 	 68 	 1.856273889541626
+Lucian_9.jpg 	 Lucian_9.jpg 	 16 	 1.4940459728240967
+Lulu_0.jpg 	 Lulu_0.jpg 	 39 	 1.6453371047973633
+Lulu_1.jpg 	 Lulu_1.jpg 	 1 	 1.2342803478240967
+Lulu_14.jpg 	 Lulu_14.jpg 	 142 	 1.0522382259368896
+Lulu_15.jpg 	 Lulu_15.jpg 	 7 	 1.416316270828247
+Lulu_2.jpg 	 Lulu_2.jpg 	 33 	 1.831819772720337
+Lulu_26.jpg 	 Lulu_26.jpg 	 157 	 1.2582831382751465
+Lulu_27.jpg 	 Lulu_27.jpg 	 1 	 1.236278772354126
+Lulu_3.jpg 	 Lulu_3.jpg 	 3 	 1.4003973007202148
+Lulu_4.jpg 	 Lulu_4.jpg 	 20 	 1.7134599685668945
+Lulu_5.jpg 	  	 0 	 1.0742433071136475
+Lulu_6.jpg 	 Lulu_6.jpg 	 219 	 1.3645811080932617
+Lux_0.jpg 	 Lux_0.jpg 	 71 	 1.5674281120300293
+Lux_1.jpg 	 Lux_1.jpg 	 2 	 1.3473050594329834
+Lux_14.jpg 	 Lux_14.jpg 	 2 	 1.421321153640747
+Lux_15.jpg 	 Lux_15.jpg 	 63 	 1.9474356174468994
+Lux_16.jpg 	 Lux_16.jpg 	 1 	 1.2612848281860352
+Lux_17.jpg 	 Lux_17.jpg 	 11 	 1.5370121002197266
+Lux_18.jpg 	 Lux_18.jpg 	 33 	 1.781846046447754
+Lux_19.jpg 	 Lux_19.jpg 	 6 	 1.5113389492034912
+Lux_2.jpg 	 Lux_2.jpg 	 1 	 1.372309684753418
+Lux_3.jpg 	 Lux_3.jpg 	 129 	 1.1352534294128418
+Lux_4.jpg 	  	 0 	 1.0462396144866943
+Lux_5.jpg 	 Lux_5.jpg 	 5 	 1.3182957172393799
+Lux_6.jpg 	  	 0 	 1.2362775802612305
+Lux_7.jpg 	 Lux_7.jpg 	 156 	 1.136254072189331
+Lux_8.jpg 	 Lux_8.jpg 	 13 	 1.6793792247772217
+Malphite_0.jpg 	  	 0 	 1.1472587585449219
+Malphite_1.jpg 	 Malphite_1.jpg 	 4 	 1.382317304611206
+Malphite_16.jpg 	 Malphite_16.jpg 	 64 	 1.9754438400268555
+Malphite_2.jpg 	  	 0 	 1.0272316932678223
+Malphite_23.jpg 	 Malphite_23.jpg 	 1 	 1.256284236907959
+Malphite_24.jpg 	 Malphite_24.jpg 	 224 	 1.5333428382873535
+Malphite_25.jpg 	 Akali_5.jpg 	 1 	 1.4353256225585938
+Malphite_27.jpg 	  	 0 	 1.2012696266174316
+Malphite_3.jpg 	 Malphite_3.jpg 	 249 	 1.4363234043121338
+Malphite_4.jpg 	 Malphite_4.jpg 	 11 	 1.5798664093017578
+Malphite_5.jpg 	 Malphite_5.jpg 	 12 	 1.6103627681732178
+Malphite_6.jpg 	  	 0 	 1.1682639122009277
+Malphite_7.jpg 	 Malphite_7.jpg 	 30 	 1.6173624992370605
+Malzahar_0.jpg 	 Malzahar_0.jpg 	 25 	 1.725389003753662
+Malzahar_1.jpg 	  	 0 	 1.0472359657287598
+Malzahar_18.jpg 	 Malzahar_18.jpg 	 9 	 1.53334641456604
+Malzahar_2.jpg 	  	 0 	 1.1457624435424805
+Malzahar_28.jpg 	 Malzahar_28.jpg 	 1 	 1.2722878456115723
+Malzahar_3.jpg 	 Malzahar_3.jpg 	 28 	 1.6773757934570312
+Malzahar_4.jpg 	 Malzahar_4.jpg 	 123 	 1.1402571201324463
+Malzahar_5.jpg 	 Malzahar_5.jpg 	 27 	 1.7733986377716064
+Malzahar_6.jpg 	  	 0 	 1.080244541168213
+Malzahar_7.jpg 	 Malzahar_7.jpg 	 1 	 1.203270435333252
+Malzahar_9.jpg 	 Malzahar_9.jpg 	 81 	 1.9494390487670898
+Maokai_0.jpg 	  	 0 	 1.2672748565673828
+Maokai_1.jpg 	 Maokai_1.jpg 	 8 	 1.4383232593536377
+Maokai_16.jpg 	  	 0 	 1.1042513847351074
+Maokai_2.jpg 	 Maokai_2.jpg 	 47 	 1.7944011688232422
+Maokai_24.jpg 	 Maokai_24.jpg 	 37 	 1.6583740711212158
+Maokai_3.jpg 	 Maokai_3.jpg 	 10 	 1.4673304557800293
+Maokai_4.jpg 	  	 0 	 1.0742416381835938
+Maokai_5.jpg 	 Maokai_5.jpg 	 257 	 1.5493478775024414
+Maokai_6.jpg 	 Maokai_6.jpg 	 222 	 1.5673553943634033
+Maokai_7.jpg 	 Maokai_7.jpg 	 4 	 1.5073390007019043
+MasterYi_0.jpg 	 MasterYi_0.jpg 	 110 	 1.0662379264831543
+MasterYi_1.jpg 	 MasterYi_1.jpg 	 4 	 1.255284070968628
+MasterYi_10.jpg 	 MasterYi_10.jpg 	 19 	 1.4743320941925049
+MasterYi_11.jpg 	 MasterYi_11.jpg 	 186 	 1.4113178253173828
+MasterYi_17.jpg 	 MasterYi_17.jpg 	 85 	 2.3449130058288574
+MasterYi_2.jpg 	 MasterYi_2.jpg 	 188 	 1.406752109527588
+MasterYi_24.jpg 	 MasterYi_24.jpg 	 16 	 1.525968074798584
+MasterYi_3.jpg 	 MasterYi_3.jpg 	 204 	 1.2879364490509033
+MasterYi_33.jpg 	 MasterYi_33.jpg 	 140 	 1.358842372894287
+MasterYi_4.jpg 	 MasterYi_4.jpg 	 2 	 1.380333423614502
+MasterYi_42.jpg 	  	 0 	 1.268296480178833
+MasterYi_5.jpg 	 MasterYi_5.jpg 	 15 	 1.5616843700408936
+MasterYi_9.jpg 	 MasterYi_9.jpg 	 64 	 1.8263328075408936
+MissFortune_0.jpg 	 MissFortune_0.jpg 	 1 	 1.2302906513214111
+MissFortune_1.jpg 	 MissFortune_1.jpg 	 32 	 1.6919023990631104
+MissFortune_15.jpg 	 MissFortune_15.jpg 	 88 	 2.1774508953094482
+MissFortune_16.jpg 	 MissFortune_16.jpg 	 11 	 1.4832499027252197
+MissFortune_17.jpg 	 MissFortune_17.jpg 	 1 	 1.2505156993865967
+MissFortune_18.jpg 	 MissFortune_18.jpg 	 25 	 1.5933592319488525
+MissFortune_2.jpg 	  	 0 	 0.9512181282043457
+MissFortune_20.jpg 	 MissFortune_20.jpg 	 112 	 0.9582116603851318
+MissFortune_21.jpg 	 MissFortune_21.jpg 	 138 	 1.397326946258545
+MissFortune_3.jpg 	 MissFortune_3.jpg 	 16 	 1.5673539638519287
+MissFortune_4.jpg 	 MissFortune_4.jpg 	 2 	 1.2612848281860352
+MissFortune_5.jpg 	 MissFortune_5.jpg 	 48 	 1.809406042098999
+MissFortune_6.jpg 	 MissFortune_6.jpg 	 6 	 1.4103178977966309
+MissFortune_7.jpg 	 MissFortune_7.jpg 	 4 	 1.5203418731689453
+MissFortune_8.jpg 	 MissFortune_8.jpg 	 40 	 2.0804686546325684
+MissFortune_9.jpg 	 MissFortune_9.jpg 	 5 	 1.4663314819335938
+MonkeyKing_0.jpg 	 MonkeyKing_0.jpg 	 6 	 1.4863338470458984
+MonkeyKing_1.jpg 	 MonkeyKing_1.jpg 	 186 	 1.3723089694976807
+MonkeyKing_2.jpg 	 MonkeyKing_2.jpg 	 105 	 1.1142499446868896
+MonkeyKing_3.jpg 	 MonkeyKing_3.jpg 	 31 	 1.5803558826446533
+MonkeyKing_4.jpg 	 MonkeyKing_4.jpg 	 8 	 1.2651731967926025
+MonkeyKing_5.jpg 	 MonkeyKing_5.jpg 	 277 	 1.8854856491088867
+MonkeyKing_6.jpg 	 MonkeyKing_6.jpg 	 27 	 1.7593965530395508
+MonkeyKing_7.jpg 	 MonkeyKing_7.jpg 	 28 	 1.722388505935669
+Mordekaiser_0.jpg 	  	 0 	 1.1592836380004883
+Mordekaiser_1.jpg 	  	 0 	 1.1251420974731445
+Mordekaiser_13.jpg 	 Mordekaiser_13.jpg 	 3 	 1.2562825679779053
+Mordekaiser_2.jpg 	  	 0 	 1.091268539428711
+Mordekaiser_23.jpg 	 Mordekaiser_23.jpg 	 13 	 1.5747241973876953
+Mordekaiser_3.jpg 	 Mordekaiser_3.jpg 	 1 	 1.2516160011291504
+Mordekaiser_4.jpg 	 Mordekaiser_4.jpg 	 12 	 1.5103397369384766
+Mordekaiser_5.jpg 	 Mordekaiser_5.jpg 	 76 	 2.043457508087158
+Mordekaiser_6.jpg 	  	 0 	 1.303295612335205
+Morgana_0.jpg 	 Morgana_0.jpg 	 4 	 1.5523481369018555
+Morgana_1.jpg 	 Morgana_1.jpg 	 11 	 1.5103418827056885
+Morgana_10.jpg 	 Morgana_10.jpg 	 29 	 1.7243871688842773
+Morgana_11.jpg 	 Morgana_11.jpg 	 7 	 1.353304386138916
+Morgana_17.jpg 	 Morgana_17.jpg 	 3 	 1.2992920875549316
+Morgana_2.jpg 	 Morgana_2.jpg 	 69 	 2.13448166847229
+Morgana_26.jpg 	  	 0 	 1.1572597026824951
+Morgana_3.jpg 	 Morgana_3.jpg 	 74 	 2.0904712677001953
+Morgana_39.jpg 	 Morgana_39.jpg 	 6 	 1.4203202724456787
+Morgana_4.jpg 	 Morgana_4.jpg 	 28 	 1.7123854160308838
+Morgana_41.jpg 	 Morgana_41.jpg 	 11 	 1.4693305492401123
+Morgana_5.jpg 	  	 0 	 1.2832932472229004
+Morgana_6.jpg 	 Morgana_6.jpg 	 50 	 1.840926170349121
+Nami_0.jpg 	 Nami_0.jpg 	 209 	 1.556351661682129
+Nami_1.jpg 	 Nami_1.jpg 	 5 	 1.7103846073150635
+Nami_15.jpg 	 Nami_15.jpg 	 1 	 1.451326608657837
+Nami_2.jpg 	 Nami_2.jpg 	 214 	 1.545346975326538
+Nami_24.jpg 	 Nami_24.jpg 	 97 	 2.2885525226593018
+Nami_3.jpg 	 Nami_3.jpg 	 76 	 2.126479148864746
+Nami_32.jpg 	  	 0 	 0.9972262382507324
+Nami_7.jpg 	 Nami_7.jpg 	 1 	 1.2742862701416016
+Nami_8.jpg 	 Nami_8.jpg 	 118 	 1.3121049404144287
+Nami_9.jpg 	 Nami_9.jpg 	 2 	 1.3333032131195068
+Nasus_0.jpg 	  	 0 	 1.1312556266784668
+Nasus_1.jpg 	 Nasus_1.jpg 	 3 	 1.4163165092468262
+Nasus_10.jpg 	 Nasus_10.jpg 	 60 	 1.9604406356811523
+Nasus_11.jpg 	 Nasus_11.jpg 	 117 	 1.295292615890503
+Nasus_16.jpg 	  	 0 	 1.1922671794891357
+Nasus_2.jpg 	 Nasus_2.jpg 	 5 	 1.4263219833374023
+Nasus_25.jpg 	 Nasus_25.jpg 	 51 	 1.8494162559509277
+Nasus_3.jpg 	  	 0 	 1.165262222290039
+Nasus_4.jpg 	 Nasus_4.jpg 	 163 	 1.4553277492523193
+Nasus_5.jpg 	 Nasus_5.jpg 	 67 	 2.0384583473205566
+Nasus_6.jpg 	  	 0 	 1.3262999057769775
+Nautilus_0.jpg 	 Nautilus_0.jpg 	 20 	 1.7033843994140625
+Nautilus_1.jpg 	 Nautilus_1.jpg 	 6 	 1.5003364086151123
+Nautilus_2.jpg 	  	 0 	 1.1882696151733398
+Nautilus_3.jpg 	 Nautilus_3.jpg 	 3 	 1.4363229274749756
+Nautilus_4.jpg 	 Nautilus_4.jpg 	 97 	 2.175489664077759
+Nautilus_5.jpg 	  	 0 	 1.0892448425292969
+Nautilus_6.jpg 	 Nautilus_6.jpg 	 2 	 1.2432806491851807
+Nautilus_9.jpg 	 Nautilus_9.jpg 	 44 	 1.4923348426818848
+Neeko_0.jpg 	 Neeko_0.jpg 	 192 	 1.5053393840789795
+Neeko_1.jpg 	 Neeko_1.jpg 	 139 	 1.4493262767791748
+Neeko_10.jpg 	 Neeko_10.jpg 	 29 	 1.6863796710968018
+Neeko_11.jpg 	 Neeko_11.jpg 	 4 	 1.5263440608978271
+Neeko_12.jpg 	 Neeko_12.jpg 	 192 	 1.5793557167053223
+Nidalee_0.jpg 	 Nidalee_0.jpg 	 4 	 1.3473031520843506
+Nidalee_1.jpg 	 Nidalee_1.jpg 	 14 	 1.5293614864349365
+Nidalee_11.jpg 	  	 0 	 1.251281499862671
+Nidalee_18.jpg 	 Nidalee_18.jpg 	 44 	 1.7353909015655518
+Nidalee_2.jpg 	 Nidalee_2.jpg 	 19 	 1.5943620204925537
+Nidalee_27.jpg 	 Nidalee_27.jpg 	 175 	 1.3072919845581055
+Nidalee_3.jpg 	 Nidalee_3.jpg 	 110 	 0.9672191143035889
+Nidalee_4.jpg 	  	 0 	 1.1352572441101074
+Nidalee_5.jpg 	 Nidalee_5.jpg 	 8 	 1.4773352146148682
+Nidalee_6.jpg 	 Nidalee_6.jpg 	 174 	 1.7583911418914795
+Nidalee_7.jpg 	  	 0 	 0.9002087116241455
+Nidalee_8.jpg 	 Nidalee_8.jpg 	 8 	 1.383305549621582
+Nidalee_9.jpg 	 Nidalee_9.jpg 	 27 	 1.694281816482544
+Nocturne_0.jpg 	 Nocturne_0.jpg 	 69 	 2.0954713821411133
+Nocturne_1.jpg 	 Nocturne_1.jpg 	 68 	 2.6525986194610596
+Nocturne_16.jpg 	 Nocturne_16.jpg 	 1 	 1.5713553428649902
+Nocturne_2.jpg 	 Nocturne_2.jpg 	 113 	 1.3963141441345215
+Nocturne_3.jpg 	  	 0 	 1.633366346359253
+Nocturne_4.jpg 	 Nocturne_4.jpg 	 11 	 1.998450517654419
+Nocturne_5.jpg 	 Nocturne_5.jpg 	 33 	 2.6625988483428955
+Nocturne_6.jpg 	 Nocturne_6.jpg 	 94 	 3.2827394008636475
+Nocturne_7.jpg 	 Nocturne_7.jpg 	 219 	 2.246504545211792
+Nunu_0.jpg 	 Nunu_0.jpg 	 40 	 1.7413926124572754
+Nunu_1.jpg 	 Nunu_1.jpg 	 248 	 1.6473705768585205
+Nunu_16.jpg 	 Nunu_16.jpg 	 47 	 1.858419418334961
+Nunu_2.jpg 	 Nunu_2.jpg 	 241 	 1.6783764362335205
+Nunu_3.jpg 	 Nunu_3.jpg 	 82 	 1.920433521270752
+Nunu_4.jpg 	 Nunu_4.jpg 	 77 	 1.8364129066467285
+Nunu_5.jpg 	  	 0 	 1.071244239807129
+Nunu_6.jpg 	  	 0 	 1.1072473526000977
+Nunu_7.jpg 	 Nunu_7.jpg 	 21 	 1.605360507965088
+Nunu_8.jpg 	  	 0 	 1.2182772159576416
+Olaf_0.jpg 	  	 0 	 1.2192840576171875
+Olaf_1.jpg 	 Olaf_1.jpg 	 37 	 1.8674213886260986
+Olaf_15.jpg 	  	 0 	 1.2432787418365479
+Olaf_16.jpg 	  	 0 	 1.0577611923217773
+Olaf_2.jpg 	  	 0 	 1.3082959651947021
+Olaf_25.jpg 	 Olaf_25.jpg 	 12 	 1.5753512382507324
+Olaf_3.jpg 	 Olaf_3.jpg 	 68 	 1.9074311256408691
+Olaf_35.jpg 	 Olaf_35.jpg 	 2 	 1.351304054260254
+Olaf_4.jpg 	  	 0 	 1.1482574939727783
+Olaf_5.jpg 	 Olaf_5.jpg 	 47 	 1.8434152603149414
+Olaf_6.jpg 	 Olaf_6.jpg 	 56 	 1.8484182357788086
+Orianna_0.jpg 	 Orianna_0.jpg 	 16 	 1.5193405151367188
+Orianna_1.jpg 	 Orianna_1.jpg 	 79 	 2.2104969024658203
+Orianna_11.jpg 	 Orianna_11.jpg 	 12 	 1.5513508319854736
+Orianna_2.jpg 	 Orianna_2.jpg 	 8 	 1.5113396644592285
+Orianna_3.jpg 	  	 0 	 1.101248025894165
+Orianna_4.jpg 	 Orianna_4.jpg 	 4 	 1.385312557220459
+Orianna_5.jpg 	 Orianna_5.jpg 	 97 	 2.155484676361084
+Orianna_6.jpg 	  	 0 	 1.1662628650665283
+Orianna_7.jpg 	 Orianna_7.jpg 	 158 	 1.6481964588165283
+Orianna_8.jpg 	 Orianna_8.jpg 	 4 	 1.394315481185913
+Ornn_0.jpg 	 Ornn_0.jpg 	 53 	 1.874420166015625
+Ornn_1.jpg 	 Ornn_1.jpg 	 11 	 1.4723339080810547
+Ornn_2.jpg 	 Ornn_2.jpg 	 113 	 1.6753747463226318
+Pantheon_0.jpg 	 Pantheon_0.jpg 	 6 	 1.6733767986297607
+Pantheon_1.jpg 	 Pantheon_1.jpg 	 26 	 1.611363410949707
+Pantheon_16.jpg 	 Pantheon_16.jpg 	 13 	 1.587357759475708
+Pantheon_2.jpg 	 Pantheon_2.jpg 	 42 	 1.9194321632385254
+Pantheon_25.jpg 	 Pantheon_25.jpg 	 17 	 1.5513505935668945
+Pantheon_26.jpg 	  	 0 	 1.064239501953125
+Pantheon_3.jpg 	 Pantheon_3.jpg 	 9 	 1.3733079433441162
+Pantheon_4.jpg 	 Pantheon_4.jpg 	 2 	 1.2542827129364014
+Pantheon_5.jpg 	 Pantheon_5.jpg 	 87 	 2.16448712348938
+Pantheon_6.jpg 	 Pantheon_6.jpg 	 19 	 1.8223910331726074
+Pantheon_7.jpg 	 Pantheon_7.jpg 	 30 	 1.796405553817749
+Pantheon_8.jpg 	 Pantheon_8.jpg 	 12 	 1.5333449840545654
+Poppy_0.jpg 	 Poppy_0.jpg 	 208 	 1.6693761348724365
+Poppy_1.jpg 	  	 0 	 1.2572836875915527
+Poppy_14.jpg 	 Poppy_14.jpg 	 20 	 1.5413453578948975
+Poppy_15.jpg 	 Poppy_15.jpg 	 25 	 1.9034292697906494
+Poppy_16.jpg 	  	 0 	 1.2842915058135986
+Poppy_2.jpg 	 Poppy_2.jpg 	 9 	 1.6663732528686523
+Poppy_24.jpg 	 Poppy_24.jpg 	 39 	 1.9174323081970215
+Poppy_3.jpg 	 Poppy_3.jpg 	 98 	 1.9394371509552002
+Poppy_4.jpg 	 Poppy_4.jpg 	 144 	 1.1172525882720947
+Poppy_5.jpg 	 Poppy_5.jpg 	 13 	 1.2682836055755615
+Poppy_6.jpg 	 Poppy_6.jpg 	 4 	 1.511340618133545
+Poppy_7.jpg 	 Poppy_7.jpg 	 196 	 2.099473237991333
+Pyke_0.jpg 	 Pyke_0.jpg 	 319 	 2.1844911575317383
+Pyke_1.jpg 	 Pyke_1.jpg 	 34 	 1.6533725261688232
+Pyke_16.jpg 	 Pyke_16.jpg 	 83 	 2.3985581398010254
+Pyke_25.jpg 	 Pyke_25.jpg 	 44 	 1.7994065284729004
+Pyke_34.jpg 	 Pyke_34.jpg 	 83 	 1.9344334602355957
+Pyke_9.jpg 	 Pyke_9.jpg 	 96 	 2.2955167293548584
+Qiyana_0.jpg 	 Qiyana_0.jpg 	 219 	 1.6983847618103027
+Qiyana_1.jpg 	  	 0 	 1.0372345447540283
+Qiyana_10.jpg 	 Qiyana_10.jpg 	 3 	 1.2452776432037354
+Qiyana_11.jpg 	 Qiyana_11.jpg 	 24 	 2.089470624923706
+Qiyana_2.jpg 	 Qiyana_2.jpg 	 84 	 2.1834912300109863
+Quinn_0.jpg 	 Quinn_0.jpg 	 3 	 1.3783042430877686
+Quinn_1.jpg 	 Quinn_1.jpg 	 85 	 2.300518751144409
+Quinn_2.jpg 	  	 0 	 1.093245029449463
+Quinn_3.jpg 	 Quinn_3.jpg 	 26 	 1.9354383945465088
+Quinn_4.jpg 	 Quinn_4.jpg 	 18 	 1.731388807296753
+Quinn_5.jpg 	 Quinn_5.jpg 	 4 	 1.4093170166015625
+Rakan_0.jpg 	 Rakan_0.jpg 	 34 	 1.8014068603515625
+Rakan_1.jpg 	 Rakan_1.jpg 	 154 	 1.8334119319915771
+Rakan_2.jpg 	 Rakan_2.jpg 	 128 	 1.7253870964050293
+Rakan_3.jpg 	 Rakan_3.jpg 	 70 	 2.0784683227539062
+Rakan_4.jpg 	 Rakan_4.jpg 	 11 	 1.5453505516052246
+Rakan_5.jpg 	 Rakan_5.jpg 	 109 	 1.5073368549346924
+Rakan_9.jpg 	  	 0 	 1.0582423210144043
+Rammus_0.jpg 	 Rammus_0.jpg 	 14 	 1.5483465194702148
+Rammus_1.jpg 	  	 0 	 1.1122486591339111
+Rammus_16.jpg 	 Rammus_16.jpg 	 11 	 1.4722990989685059
+Rammus_17.jpg 	 Rammus_17.jpg 	 19 	 1.5793542861938477
+Rammus_2.jpg 	 Rammus_2.jpg 	 102 	 1.376309871673584
+Rammus_3.jpg 	 Rammus_3.jpg 	 76 	 2.0469746589660645
+Rammus_4.jpg 	 Rammus_4.jpg 	 108 	 1.4663288593292236
+Rammus_5.jpg 	  	 0 	 1.0392353534698486
+Rammus_6.jpg 	 Rammus_6.jpg 	 39 	 1.7493934631347656
+Rammus_7.jpg 	 Rammus_7.jpg 	 29 	 1.7546641826629639
+Rammus_8.jpg 	 Rammus_8.jpg 	 1 	 1.2092738151550293
+RekSai_0.jpg 	 RekSai_0.jpg 	 41 	 1.690380334854126
+RekSai_1.jpg 	 RekSai_1.jpg 	 1 	 1.262284278869629
+RekSai_2.jpg 	  	 0 	 1.1172564029693604
+RekSai_9.jpg 	  	 0 	 1.2012667655944824
+Rell_0.jpg 	 Rell_0.jpg 	 131 	 1.6203656196594238
+Rell_1.jpg 	  	 0 	 1.1492562294006348
+Renekton_0.jpg 	 Renekton_0.jpg 	 1 	 1.2742893695831299
+Renekton_1.jpg 	 Renekton_1.jpg 	 27 	 1.9224295616149902
+Renekton_17.jpg 	  	 0 	 1.1982715129852295
+Renekton_18.jpg 	 Renekton_18.jpg 	 127 	 1.6373674869537354
+Renekton_2.jpg 	 Renekton_2.jpg 	 2 	 1.1982710361480713
+Renekton_26.jpg 	 Renekton_26.jpg 	 1 	 1.2042720317840576
+Renekton_3.jpg 	 Renekton_3.jpg 	 227 	 1.9714417457580566
+Renekton_4.jpg 	  	 0 	 0.945216178894043
+Renekton_5.jpg 	 Renekton_5.jpg 	 134 	 1.3112924098968506
+Renekton_6.jpg 	 Renekton_6.jpg 	 1 	 1.2302780151367188
+Renekton_7.jpg 	 Renekton_7.jpg 	 317 	 1.7688453197479248
+Renekton_8.jpg 	 Renekton_8.jpg 	 2 	 1.3022966384887695
+Renekton_9.jpg 	  	 0 	 1.0902433395385742
+Rengar_0.jpg 	 Rengar_0.jpg 	 2 	 1.2742865085601807
+Rengar_1.jpg 	 Rengar_1.jpg 	 3 	 1.4453253746032715
+Rengar_15.jpg 	 Rengar_15.jpg 	 122 	 1.5573489665985107
+Rengar_2.jpg 	 Rengar_2.jpg 	 18 	 1.554352045059204
+Rengar_23.jpg 	  	 0 	 1.3503046035766602
+Rengar_3.jpg 	 Rengar_3.jpg 	 6 	 1.5303435325622559
+Rengar_30.jpg 	 Rengar_30.jpg 	 81 	 2.315798044204712
+Rengar_8.jpg 	 Rengar_8.jpg 	 1 	 1.4333350658416748
+Riven_0.jpg 	 Riven_0.jpg 	 1 	 1.5703551769256592
+Riven_1.jpg 	 Aatrox_11.jpg 	 5 	 1.4220447540283203
+Riven_16.jpg 	  	 0 	 1.1462574005126953
+Riven_18.jpg 	 Riven_18.jpg 	 29 	 1.735722541809082
+Riven_2.jpg 	 Riven_2.jpg 	 32 	 1.6853811740875244
+Riven_20.jpg 	 Riven_20.jpg 	 13 	 1.3443028926849365
+Riven_22.jpg 	  	 0 	 0.7891783714294434
+Riven_23.jpg 	 Riven_23.jpg 	 26 	 1.5873558521270752
+Riven_3.jpg 	 Riven_3.jpg 	 59 	 2.02445912361145
+Riven_34.jpg 	 Riven_34.jpg 	 43 	 1.837411880493164
+Riven_4.jpg 	 Riven_4.jpg 	 59 	 1.8524155616760254
+Riven_5.jpg 	  	 0 	 1.0752449035644531
+Riven_6.jpg 	 Riven_6.jpg 	 272 	 2.132476806640625
+Riven_7.jpg 	 Riven_4.jpg 	 136 	 2.1094775199890137
+Rumble_0.jpg 	 Rumble_0.jpg 	 81 	 1.7243866920471191
+Rumble_1.jpg 	 Rumble_1.jpg 	 246 	 1.8074073791503906
+Rumble_13.jpg 	  	 0 	 1.3643078804016113
+Rumble_2.jpg 	 Rumble_2.jpg 	 7 	 1.4913349151611328
+Rumble_3.jpg 	  	 0 	 1.1052496433258057
+Rumble_4.jpg 	 Rumble_4.jpg 	 99 	 2.488560199737549
+Ryze_0.jpg 	 Ryze_0.jpg 	 89 	 2.3805346488952637
+Ryze_1.jpg 	 Ryze_1.jpg 	 25 	 1.560351848602295
+Ryze_10.jpg 	 Azir_3.jpg 	 2 	 1.0152294635772705
+Ryze_11.jpg 	 Ryze_11.jpg 	 17 	 1.6213643550872803
+Ryze_13.jpg 	 Ryze_13.jpg 	 13 	 1.4773333072662354
+Ryze_2.jpg 	 Ryze_2.jpg 	 14 	 1.5533506870269775
+Ryze_3.jpg 	 Ryze_3.jpg 	 14 	 1.2552821636199951
+Ryze_4.jpg 	 Ryze_4.jpg 	 257 	 1.9484376907348633
+Ryze_5.jpg 	 Ryze_5.jpg 	 2 	 1.3383018970489502
+Ryze_6.jpg 	 Ryze_6.jpg 	 94 	 2.3395261764526367
+Ryze_7.jpg 	 Ryze_7.jpg 	 16 	 1.6413710117340088
+Ryze_8.jpg 	 Ryze_8.jpg 	 40 	 1.897425889968872
+Ryze_9.jpg 	 Ryze_9.jpg 	 167 	 1.8414149284362793
+Samira_0.jpg 	 Samira_0.jpg 	 254 	 2.192493200302124
+Samira_1.jpg 	 Samira_1.jpg 	 65 	 1.9974501132965088
+Samira_10.jpg 	 Samira_10.jpg 	 23 	 1.5413475036621094
+Sejuani_0.jpg 	 Sejuani_0.jpg 	 28 	 1.8074071407318115
+Sejuani_1.jpg 	 Sejuani_1.jpg 	 9 	 1.4003167152404785
+Sejuani_15.jpg 	  	 0 	 1.1302568912506104
+Sejuani_16.jpg 	 Sejuani_16.jpg 	 109 	 1.5493457317352295
+Sejuani_2.jpg 	  	 0 	 1.0712430477142334
+Sejuani_3.jpg 	 Sejuani_3.jpg 	 4 	 1.2042696475982666
+Sejuani_4.jpg 	  	 0 	 1.057236671447754
+Sejuani_5.jpg 	  	 0 	 1.2662897109985352
+Sejuani_6.jpg 	 Sejuani_6.jpg 	 11 	 1.5413436889648438
+Sejuani_7.jpg 	  	 0 	 1.1402583122253418
+Sejuani_8.jpg 	 Sejuani_8.jpg 	 183 	 1.7783992290496826
+Senna_0.jpg 	 Senna_0.jpg 	 3 	 1.4973385334014893
+Senna_1.jpg 	 Senna_1.jpg 	 34 	 1.8443775177001953
+Senna_10.jpg 	 Senna_10.jpg 	 3 	 1.3533062934875488
+Senna_16.jpg 	 Senna_16.jpg 	 4 	 1.3733103275299072
+Senna_9.jpg 	  	 0 	 1.471330165863037
+Seraphine_0.jpg 	 Seraphine_0.jpg 	 65 	 2.3635315895080566
+Seraphine_1.jpg 	 Seraphine_1.jpg 	 24 	 1.8674194812774658
+Seraphine_2.jpg 	 Seraphine_2.jpg 	 132 	 1.7283892631530762
+Seraphine_3.jpg 	 Seraphine_3.jpg 	 3 	 1.3252980709075928
+Seraphine_4.jpg 	  	 0 	 1.151261329650879
+Sett_0.jpg 	 Sett_0.jpg 	 133 	 1.9514379501342773
+Sett_1.jpg 	 Sett_1.jpg 	 10 	 1.5693557262420654
+Sett_10.jpg 	  	 0 	 1.2122747898101807
+Sett_8.jpg 	 Sett_8.jpg 	 20 	 1.819406270980835
+Sett_9.jpg 	  	 0 	 1.080242395401001
+Shaco_0.jpg 	 Shaco_0.jpg 	 2 	 1.4353246688842773
+Shaco_1.jpg 	 Shaco_1.jpg 	 4 	 1.707383632659912
+Shaco_15.jpg 	 Shaco_15.jpg 	 6 	 1.4533288478851318
+Shaco_2.jpg 	  	 0 	 0.8832111358642578
+Shaco_23.jpg 	 Shaco_23.jpg 	 1 	 0.9742047786712646
+Shaco_3.jpg 	 Shaco_3.jpg 	 74 	 1.6413707733154297
+Shaco_4.jpg 	 Shaco_4.jpg 	 188 	 1.7413923740386963
+Shaco_5.jpg 	  	 0 	 1.517343282699585
+Shaco_6.jpg 	 Shaco_6.jpg 	 3 	 1.6953821182250977
+Shaco_7.jpg 	 Shaco_7.jpg 	 32 	 2.0214548110961914
+Shaco_8.jpg 	 Shaco_8.jpg 	 2 	 1.415316104888916
+Shen_0.jpg 	 Shen_0.jpg 	 132 	 1.7923171520233154
+Shen_1.jpg 	 Aatrox_1.jpg 	 3 	 1.5933592319488525
+Shen_15.jpg 	 Shen_15.jpg 	 33 	 1.9184329509735107
+Shen_16.jpg 	 Shen_16.jpg 	 129 	 1.7242705821990967
+Shen_2.jpg 	 Shen_2.jpg 	 2 	 1.3132972717285156
+Shen_22.jpg 	  	 0 	 1.0955066680908203
+Shen_3.jpg 	 Shen_3.jpg 	 3 	 1.4123334884643555
+Shen_4.jpg 	 Shen_4.jpg 	 122 	 1.7123827934265137
+Shen_5.jpg 	 Shen_5.jpg 	 197 	 1.8414149284362793
+Shen_6.jpg 	 Shen_6.jpg 	 98 	 2.1764907836914062
+Shyvana_0.jpg 	 Shyvana_0.jpg 	 17 	 1.5833563804626465
+Shyvana_1.jpg 	 Shyvana_1.jpg 	 21 	 1.747394323348999
+Shyvana_2.jpg 	 Shyvana_2.jpg 	 35 	 1.6783783435821533
+Shyvana_3.jpg 	  	 0 	 1.2072727680206299
+Shyvana_4.jpg 	 Shyvana_4.jpg 	 2 	 1.2732882499694824
+Shyvana_5.jpg 	  	 0 	 1.1022484302520752
+Shyvana_6.jpg 	 Shyvana_6.jpg 	 5 	 1.4613280296325684
+Shyvana_8.jpg 	 Shyvana_8.jpg 	 156 	 1.6993796825408936
+Singed_0.jpg 	 Singed_0.jpg 	 1 	 1.2112741470336914
+Singed_1.jpg 	 Singed_1.jpg 	 79 	 2.3555285930633545
+Singed_10.jpg 	 Singed_10.jpg 	 5 	 1.235280990600586
+Singed_2.jpg 	  	 0 	 0.8227133750915527
+Singed_3.jpg 	  	 0 	 1.2222764492034912
+Singed_4.jpg 	 Singed_4.jpg 	 182 	 1.8274097442626953
+Singed_5.jpg 	 Singed_5.jpg 	 3 	 1.4033172130584717
+Singed_6.jpg 	 Singed_6.jpg 	 84 	 2.333524703979492
+Singed_7.jpg 	 Singed_7.jpg 	 109 	 1.818408727645874
+Singed_8.jpg 	 Singed_8.jpg 	 11 	 1.536348581314087
+Singed_9.jpg 	 Singed_9.jpg 	 2 	 1.334298849105835
+Sion_0.jpg 	 Sion_0.jpg 	 46 	 1.8714215755462646
+Sion_1.jpg 	 Darius_15.jpg 	 2 	 1.4413278102874756
+Sion_14.jpg 	  	 0 	 1.0892412662506104
+Sion_2.jpg 	 Sion_2.jpg 	 23 	 1.5503153800964355
+Sion_22.jpg 	 Sion_22.jpg 	 19 	 1.462329387664795
+Sion_3.jpg 	 Sion_3.jpg 	 24 	 1.5573508739471436
+Sion_4.jpg 	 Sion_4.jpg 	 64 	 2.0494604110717773
+Sion_5.jpg 	 Sion_5.jpg 	 6 	 1.3833119869232178
+Sivir_0.jpg 	  	 0 	 1.2062721252441406
+Sivir_1.jpg 	 Sivir_1.jpg 	 108 	 1.6816468238830566
+Sivir_10.jpg 	 Sivir_10.jpg 	 18 	 1.6134319305419922
+Sivir_16.jpg 	  	 0 	 1.142259120941162
+Sivir_2.jpg 	 Sivir_2.jpg 	 25 	 1.6563727855682373
+Sivir_25.jpg 	 Sivir_25.jpg 	 90 	 2.2625105381011963
+Sivir_3.jpg 	  	 0 	 1.1372544765472412
+Sivir_34.jpg 	 Sivir_34.jpg 	 10 	 1.586357831954956
+Sivir_4.jpg 	 Sivir_4.jpg 	 2 	 1.471330165863037
+Sivir_5.jpg 	 Sivir_5.jpg 	 5 	 1.4163217544555664
+Sivir_6.jpg 	 Sivir_6.jpg 	 64 	 1.5463447570800781
+Sivir_7.jpg 	 Sivir_7.jpg 	 23 	 1.6103637218475342
+Sivir_8.jpg 	 Sivir_8.jpg 	 10 	 1.4313220977783203
+Sivir_9.jpg 	 Sivir_9.jpg 	 16 	 1.678377389907837
+Skarner_0.jpg 	 Skarner_0.jpg 	 115 	 1.709385871887207
+Skarner_1.jpg 	 Skarner_1.jpg 	 52 	 1.8284120559692383
+Skarner_2.jpg 	 Skarner_2.jpg 	 231 	 2.198495864868164
+Skarner_3.jpg 	 Skarner_3.jpg 	 51 	 1.8264098167419434
+Skarner_4.jpg 	 Skarner_4.jpg 	 162 	 1.8174092769622803
+Skarner_5.jpg 	 Skarner_5.jpg 	 16 	 1.5903584957122803
+Sona_0.jpg 	 Sona_0.jpg 	 139 	 2.1114747524261475
+Sona_1.jpg 	 Anivia_8.jpg 	 3 	 1.4463269710540771
+Sona_17.jpg 	 Sona_17.jpg 	 1 	 1.3343021869659424
+Sona_2.jpg 	 Sona_2.jpg 	 79 	 2.21449613571167
+Sona_26.jpg 	 Sona_26.jpg 	 2 	 1.5373520851135254
+Sona_3.jpg 	  	 0 	 1.19627046585083
+Sona_4.jpg 	 Sona_4.jpg 	 74 	 2.0564634799957275
+Sona_5.jpg 	  	 0 	 0.9478094577789307
+Sona_6.jpg 	 Sona_6.jpg 	 118 	 2.0544607639312744
+Sona_7.jpg 	 Sona_7.jpg 	 116 	 1.6413679122924805
+Sona_9.jpg 	 Sona_9.jpg 	 27 	 1.87742280960083
+Soraka_0.jpg 	 Soraka_0.jpg 	 189 	 2.1074743270874023
+Soraka_1.jpg 	 Soraka_1.jpg 	 145 	 1.827413558959961
+Soraka_15.jpg 	  	 0 	 1.0542395114898682
+Soraka_16.jpg 	 Soraka_16.jpg 	 8 	 1.6683881282806396
+Soraka_17.jpg 	 Soraka_17.jpg 	 31 	 1.9949595928192139
+Soraka_18.jpg 	 Soraka_18.jpg 	 66 	 2.001450538635254
+Soraka_2.jpg 	 Soraka_2.jpg 	 99 	 2.24751353263855
+Soraka_3.jpg 	 Soraka_3.jpg 	 7 	 1.645371913909912
+Soraka_4.jpg 	 Soraka_4.jpg 	 31 	 1.753391981124878
+Soraka_5.jpg 	 Soraka_5.jpg 	 119 	 1.749394416809082
+Soraka_6.jpg 	  	 0 	 1.4433274269104004
+Soraka_7.jpg 	 Soraka_7.jpg 	 33 	 2.284512758255005
+Soraka_8.jpg 	 Soraka_8.jpg 	 5 	 1.756396770477295
+Soraka_9.jpg 	 Soraka_9.jpg 	 140 	 1.617363452911377
+Swain_0.jpg 	 Swain_0.jpg 	 1 	 1.3332993984222412
+Swain_1.jpg 	 Swain_1.jpg 	 13 	 1.7352099418640137
+Swain_11.jpg 	 Swain_11.jpg 	 146 	 2.5935847759246826
+Swain_12.jpg 	 Swain_12.jpg 	 16 	 1.8224101066589355
+Swain_2.jpg 	 Swain_2.jpg 	 21 	 1.877427101135254
+Swain_3.jpg 	 Swain_3.jpg 	 129 	 1.838409185409546
+Swain_4.jpg 	 Swain_4.jpg 	 50 	 1.8834245204925537
+Sylas_0.jpg 	 Sylas_0.jpg 	 25 	 1.8114080429077148
+Sylas_1.jpg 	 Akali_32.jpg 	 1 	 1.318300485610962
+Sylas_13.jpg 	 Sylas_13.jpg 	 29 	 1.7043793201446533
+Sylas_14.jpg 	 Sylas_14.jpg 	 201 	 2.2575089931488037
+Sylas_8.jpg 	  	 0 	 1.2372798919677734
+Syndra_0.jpg 	 Syndra_0.jpg 	 93 	 2.4403984546661377
+Syndra_1.jpg 	 Syndra_1.jpg 	 73 	 2.41054368019104
+Syndra_16.jpg 	 Syndra_16.jpg 	 11 	 1.578354835510254
+Syndra_2.jpg 	 Syndra_2.jpg 	 86 	 2.0784714221954346
+Syndra_25.jpg 	  	 0 	 1.186264991760254
+Syndra_3.jpg 	 Syndra_3.jpg 	 32 	 1.892425537109375
+Syndra_4.jpg 	 Syndra_4.jpg 	 14 	 1.7663967609405518
+Syndra_5.jpg 	 Syndra_5.jpg 	 25 	 1.7353918552398682
+Syndra_6.jpg 	 Syndra_6.jpg 	 5 	 1.4573276042938232
+Syndra_7.jpg 	 Syndra_7.jpg 	 2 	 1.403315782546997
+TahmKench_0.jpg 	 TahmKench_0.jpg 	 87 	 2.3385255336761475
+TahmKench_1.jpg 	 TahmKench_1.jpg 	 62 	 2.328524112701416
+TahmKench_11.jpg 	 TahmKench_11.jpg 	 31 	 1.8954308032989502
+TahmKench_2.jpg 	  	 0 	 1.2192721366882324
+TahmKench_3.jpg 	 TahmKench_3.jpg 	 5 	 1.561352014541626
+Taliyah_0.jpg 	 Taliyah_0.jpg 	 5 	 1.4213194847106934
+Taliyah_1.jpg 	  	 0 	 1.0592389106750488
+Taliyah_2.jpg 	 Taliyah_2.jpg 	 2 	 1.303293228149414
+Taliyah_3.jpg 	  	 0 	 1.18927001953125
+Talon_0.jpg 	 Talon_0.jpg 	 4 	 1.4273200035095215
+Talon_1.jpg 	  	 0 	 1.1042473316192627
+Talon_12.jpg 	 Talon_12.jpg 	 62 	 2.1957337856292725
+Talon_2.jpg 	  	 0 	 1.2452802658081055
+Talon_20.jpg 	 Talon_20.jpg 	 2 	 1.2752892971038818
+Talon_29.jpg 	 Talon_29.jpg 	 82 	 2.6726009845733643
+Talon_3.jpg 	 Talon_3.jpg 	 66 	 2.414543628692627
+Talon_4.jpg 	 Talon_4.jpg 	 43 	 2.3415262699127197
+Talon_5.jpg 	 Talon_5.jpg 	 62 	 2.440990447998047
+Taric_0.jpg 	 Taric_0.jpg 	 17 	 1.8044044971466064
+Taric_1.jpg 	 Taric_1.jpg 	 226 	 2.311880350112915
+Taric_2.jpg 	 Taric_2.jpg 	 191 	 2.136481285095215
+Taric_3.jpg 	 Taric_3.jpg 	 4 	 1.308295726776123
+Taric_4.jpg 	  	 0 	 1.2682850360870361
+Taric_9.jpg 	 Taric_9.jpg 	 180 	 2.0984716415405273
+Teemo_0.jpg 	 Teemo_0.jpg 	 181 	 2.1224777698516846
+Teemo_1.jpg 	 Teemo_1.jpg 	 18 	 1.7323901653289795
+Teemo_14.jpg 	  	 0 	 1.407318115234375
+Teemo_18.jpg 	 Teemo_18.jpg 	 44 	 1.8324120044708252
+Teemo_2.jpg 	 Teemo_2.jpg 	 34 	 1.7844023704528809
+Teemo_25.jpg 	  	 0 	 1.3434741497039795
+Teemo_27.jpg 	 Teemo_27.jpg 	 104 	 1.9010441303253174
+Teemo_3.jpg 	 Teemo_3.jpg 	 263 	 2.4136781692504883
+Teemo_4.jpg 	  	 0 	 1.0087459087371826
+Teemo_5.jpg 	 Teemo_5.jpg 	 47 	 2.0379931926727295
+Teemo_6.jpg 	  	 0 	 1.2501258850097656
+Teemo_7.jpg 	 Teemo_7.jpg 	 72 	 2.248080015182495
+Teemo_8.jpg 	 Teemo_8.jpg 	 13 	 1.574354887008667
+Thresh_0.jpg 	 Thresh_0.jpg 	 21 	 1.7428417205810547
+Thresh_1.jpg 	 Thresh_1.jpg 	 149 	 2.218855619430542
+Thresh_13.jpg 	 Thresh_13.jpg 	 51 	 1.943629264831543
+Thresh_14.jpg 	 Thresh_14.jpg 	 125 	 1.9731395244598389
+Thresh_15.jpg 	  	 0 	 1.3553063869476318
+Thresh_17.jpg 	 Thresh_17.jpg 	 144 	 2.1379878520965576
+Thresh_2.jpg 	 Thresh_2.jpg 	 1 	 1.294832706451416
+Thresh_27.jpg 	  	 0 	 1.2533047199249268
+Thresh_28.jpg 	 Thresh_28.jpg 	 1 	 1.3014907836914062
+Thresh_3.jpg 	  	 0 	 1.1202630996704102
+Thresh_4.jpg 	 Thresh_4.jpg 	 2 	 1.463613748550415
+Thresh_5.jpg 	 Thresh_5.jpg 	 57 	 1.7910215854644775
+Thresh_6.jpg 	  	 0 	 1.2262804508209229
+Tristana_0.jpg 	 Tristana_0.jpg 	 42 	 1.856827735900879
+Tristana_1.jpg 	 Tristana_1.jpg 	 18 	 1.6064739227294922
+Tristana_10.jpg 	 Tristana_10.jpg 	 2 	 1.3553049564361572
+Tristana_11.jpg 	 Tristana_11.jpg 	 1 	 1.296400547027588
+Tristana_12.jpg 	 Tristana_12.jpg 	 241 	 2.5828516483306885
+Tristana_2.jpg 	 Tristana_2.jpg 	 17 	 1.503702163696289
+Tristana_24.jpg 	 Tristana_24.jpg 	 15 	 1.4240236282348633
+Tristana_3.jpg 	 Tristana_3.jpg 	 22 	 1.8524343967437744
+Tristana_33.jpg 	 Tristana_33.jpg 	 4 	 1.4721534252166748
+Tristana_4.jpg 	  	 0 	 1.1572844982147217
+Tristana_40.jpg 	  	 0 	 1.2300143241882324
+Tristana_5.jpg 	 Tristana_5.jpg 	 17 	 1.3181400299072266
+Tristana_6.jpg 	 Tristana_6.jpg 	 164 	 1.8000268936157227
+Trundle_0.jpg 	 Trundle_0.jpg 	 2 	 1.476606845855713
+Trundle_1.jpg 	 Trundle_1.jpg 	 46 	 1.9804456233978271
+Trundle_2.jpg 	 Trundle_2.jpg 	 14 	 1.7543978691101074
+Trundle_3.jpg 	 Trundle_3.jpg 	 9 	 1.6710882186889648
+Trundle_4.jpg 	  	 0 	 1.0422337055206299
+Trundle_5.jpg 	 Trundle_5.jpg 	 140 	 1.9552528858184814
+Trundle_6.jpg 	 Aphelios_0.jpg 	 1 	 1.3808503150939941
+Tryndamere_0.jpg 	 Tryndamere_0.jpg 	 187 	 2.623589038848877
+Tryndamere_1.jpg 	 Tryndamere_1.jpg 	 757 	 4.011903285980225
+Tryndamere_10.jpg 	 Tryndamere_10.jpg 	 2 	 1.2047836780548096
+Tryndamere_18.jpg 	 Tryndamere_18.jpg 	 108 	 1.9234306812286377
+Tryndamere_2.jpg 	 Tryndamere_2.jpg 	 77 	 1.950439691543579
+Tryndamere_3.jpg 	 Tryndamere_3.jpg 	 57 	 1.8394148349761963
+Tryndamere_4.jpg 	 Tryndamere_4.jpg 	 17 	 1.6043612957000732
+Tryndamere_5.jpg 	 Tryndamere_5.jpg 	 43 	 2.219500780105591
+Tryndamere_6.jpg 	 Tryndamere_6.jpg 	 145 	 2.1654860973358154
+Tryndamere_7.jpg 	  	 0 	 1.1362576484680176
+Tryndamere_8.jpg 	 Tryndamere_8.jpg 	 1 	 1.2032709121704102
+Tryndamere_9.jpg 	  	 0 	 1.0292325019836426
+TwistedFate_0.jpg 	  	 0 	 1.3873097896575928
+TwistedFate_1.jpg 	  	 0 	 1.0722434520721436
+TwistedFate_10.jpg 	  	 0 	 1.048236608505249
+TwistedFate_11.jpg 	 TwistedFate_11.jpg 	 14 	 1.4143166542053223
+TwistedFate_13.jpg 	 TwistedFate_13.jpg 	 10 	 1.8224105834960938
+TwistedFate_2.jpg 	 TwistedFate_2.jpg 	 72 	 2.291975259780884
+TwistedFate_23.jpg 	  	 0 	 1.1582591533660889
+TwistedFate_25.jpg 	  	 0 	 1.273289680480957
+TwistedFate_3.jpg 	  	 0 	 1.278318166732788
+TwistedFate_4.jpg 	  	 0 	 1.1336195468902588
+TwistedFate_5.jpg 	 TwistedFate_5.jpg 	 111 	 2.083470106124878
+TwistedFate_6.jpg 	 TwistedFate_6.jpg 	 5 	 1.6053593158721924
+TwistedFate_7.jpg 	 TwistedFate_7.jpg 	 151 	 2.356529951095581
+TwistedFate_8.jpg 	 TwistedFate_8.jpg 	 69 	 2.328526496887207
+TwistedFate_9.jpg 	 TwistedFate_9.jpg 	 20 	 1.8894243240356445
+Twitch_0.jpg 	 Twitch_0.jpg 	 8 	 1.6053617000579834
+Twitch_1.jpg 	 Twitch_1.jpg 	 20 	 1.6823792457580566
+Twitch_12.jpg 	 Twitch_12.jpg 	 2 	 1.4263222217559814
+Twitch_2.jpg 	 Twitch_2.jpg 	 22 	 1.921431064605713
+Twitch_27.jpg 	  	 0 	 1.2182979583740234
+Twitch_3.jpg 	 Twitch_3.jpg 	 104 	 1.899427890777588
+Twitch_36.jpg 	 Twitch_36.jpg 	 22 	 1.6953845024108887
+Twitch_4.jpg 	  	 0 	 1.360304594039917
+Twitch_5.jpg 	 Twitch_5.jpg 	 14 	 1.8244109153747559
+Twitch_6.jpg 	 Twitch_6.jpg 	 1 	 1.3773102760314941
+Twitch_7.jpg 	  	 0 	 1.442323923110962
+Twitch_8.jpg 	 Twitch_8.jpg 	 22 	 1.6813793182373047
+Udyr_0.jpg 	 Udyr_0.jpg 	 2 	 1.4613287448883057
+Udyr_1.jpg 	 Udyr_1.jpg 	 51 	 2.007451295852661
+Udyr_2.jpg 	 Udyr_2.jpg 	 17 	 1.6903817653656006
+Udyr_3.jpg 	 Udyr_3.jpg 	 92 	 2.4285471439361572
+Udyr_4.jpg 	 Udyr_4.jpg 	 76 	 2.4885597229003906
+Udyr_5.jpg 	 Udyr_5.jpg 	 7 	 1.4403295516967773
+Urgot_0.jpg 	 Urgot_0.jpg 	 35 	 2.010448694229126
+Urgot_1.jpg 	 Aatrox_11.jpg 	 1 	 1.5153424739837646
+Urgot_15.jpg 	 Urgot_15.jpg 	 2 	 1.5053369998931885
+Urgot_2.jpg 	 Urgot_2.jpg 	 12 	 1.7824013233184814
+Urgot_3.jpg 	 Urgot_3.jpg 	 11 	 1.5723545551300049
+Urgot_9.jpg 	  	 0 	 1.3523046970367432
+Varus_0.jpg 	 Varus_0.jpg 	 1 	 1.4203197956085205
+Varus_1.jpg 	 Varus_1.jpg 	 141 	 2.609585762023926
+Varus_16.jpg 	 Ashe_2.jpg 	 1 	 1.340303897857666
+Varus_17.jpg 	 Varus_17.jpg 	 117 	 2.671599864959717
+Varus_2.jpg 	 Varus_2.jpg 	 3 	 1.5853602886199951
+Varus_3.jpg 	 Varus_3.jpg 	 50 	 2.081468343734741
+Varus_4.jpg 	 Varus_4.jpg 	 109 	 2.5895814895629883
+Varus_5.jpg 	  	 0 	 1.077242136001587
+Varus_6.jpg 	  	 0 	 1.1092495918273926
+Varus_7.jpg 	 Varus_7.jpg 	 79 	 2.2275009155273438
+Varus_9.jpg 	 Varus_9.jpg 	 46 	 1.883425235748291
+Vayne_0.jpg 	 Vayne_0.jpg 	 29 	 1.6173644065856934
+Vayne_1.jpg 	  	 0 	 1.180267333984375
+Vayne_10.jpg 	 Vayne_10.jpg 	 37 	 1.7934021949768066
+Vayne_11.jpg 	 Vayne_11.jpg 	 1 	 1.2482807636260986
+Vayne_12.jpg 	  	 0 	 1.1342546939849854
+Vayne_13.jpg 	 Vayne_13.jpg 	 122 	 2.093127489089966
+Vayne_14.jpg 	 Vayne_14.jpg 	 26 	 1.6373701095581055
+Vayne_15.jpg 	 Vayne_15.jpg 	 129 	 2.0304574966430664
+Vayne_2.jpg 	 Vayne_2.jpg 	 268 	 2.9226572513580322
+Vayne_25.jpg 	 Vayne_25.jpg 	 124 	 1.9874465465545654
+Vayne_3.jpg 	  	 0 	 1.1402583122253418
+Vayne_4.jpg 	  	 0 	 0.9562442302703857
+Vayne_5.jpg 	 Zed_2.jpg 	 5 	 1.3102891445159912
+Vayne_6.jpg 	 Vayne_6.jpg 	 102 	 2.119476079940796
+Veigar_0.jpg 	 Veigar_0.jpg 	 105 	 2.0235519409179688
+Veigar_1.jpg 	  	 0 	 1.1642646789550781
+Veigar_13.jpg 	 Veigar_13.jpg 	 23 	 1.6683740615844727
+Veigar_2.jpg 	 Veigar_2.jpg 	 162 	 2.236504316329956
+Veigar_23.jpg 	  	 0 	 1.4333219528198242
+Veigar_3.jpg 	 Veigar_3.jpg 	 11 	 1.6063621044158936
+Veigar_32.jpg 	 Veigar_32.jpg 	 9 	 1.5093390941619873
+Veigar_4.jpg 	 Veigar_4.jpg 	 4 	 1.2402794361114502
+Veigar_5.jpg 	  	 0 	 0.9562251567840576
+Veigar_6.jpg 	  	 0 	 1.0212204456329346
+Veigar_7.jpg 	  	 0 	 1.3573145866394043
+Veigar_8.jpg 	  	 0 	 1.2122716903686523
+Veigar_9.jpg 	  	 0 	 1.3833117485046387
+Velkoz_0.jpg 	 Velkoz_0.jpg 	 9 	 1.7984044551849365
+Velkoz_1.jpg 	 Velkoz_1.jpg 	 47 	 2.3105216026306152
+Velkoz_11.jpg 	  	 0 	 1.550349473953247
+Velkoz_2.jpg 	 Velkoz_2.jpg 	 122 	 2.6385927200317383
+Velkoz_3.jpg 	 Velkoz_3.jpg 	 43 	 2.2154994010925293
+Velkoz_4.jpg 	 Velkoz_4.jpg 	 10 	 1.5873587131500244
+Vex_0.jpg 	  	 0 	 1.356304407119751
+Vex_1.jpg 	  	 0 	 1.2662358283996582
+Viego_0.jpg 	 Viego_0.jpg 	 1 	 1.550349235534668
+Viego_1.jpg 	 Viego_1.jpg 	 2 	 1.4903349876403809
+Viego_10.jpg 	 Viego_10.jpg 	 32 	 1.8544166088104248
+Viktor_0.jpg 	 Viktor_0.jpg 	 151 	 2.5695793628692627
+Viktor_1.jpg 	 Viktor_1.jpg 	 117 	 1.927433967590332
+Viktor_2.jpg 	 Viktor_2.jpg 	 285 	 2.6826047897338867
+Viktor_3.jpg 	 Viktor_3.jpg 	 10 	 1.5823559761047363
+Viktor_4.jpg 	 Viktor_4.jpg 	 101 	 2.431546449661255
+Viktor_5.jpg 	 Viktor_5.jpg 	 1 	 1.3413028717041016
+Vi_0.jpg 	 Vi_0.jpg 	 196 	 2.4115424156188965
+Vi_1.jpg 	 Vi_1.jpg 	 39 	 1.9204328060150146
+Vi_11.jpg 	 Vi_11.jpg 	 112 	 2.3455276489257812
+Vi_12.jpg 	 Vi_12.jpg 	 16 	 1.3192975521087646
+Vi_2.jpg 	 Vi_2.jpg 	 24 	 1.8314123153686523
+Vi_20.jpg 	  	 0 	 1.198272943496704
+Vi_29.jpg 	  	 0 	 1.1112489700317383
+Vi_3.jpg 	 Vi_3.jpg 	 5 	 1.4973368644714355
+Vi_4.jpg 	  	 0 	 1.1982712745666504
+Vi_5.jpg 	 Vi_5.jpg 	 18 	 1.8684179782867432
+Vladimir_0.jpg 	 Vladimir_0.jpg 	 199 	 2.6826043128967285
+Vladimir_1.jpg 	 Vladimir_1.jpg 	 9 	 1.5213429927825928
+Vladimir_14.jpg 	 Vladimir_14.jpg 	 14 	 1.645371437072754
+Vladimir_2.jpg 	 Vladimir_2.jpg 	 35 	 1.8234100341796875
+Vladimir_21.jpg 	 Vladimir_21.jpg 	 130 	 2.5445728302001953
+Vladimir_3.jpg 	 Vladimir_3.jpg 	 25 	 2.0874688625335693
+Vladimir_30.jpg 	 Vladimir_30.jpg 	 9 	 1.5663552284240723
+Vladimir_4.jpg 	 Vladimir_4.jpg 	 135 	 2.210496425628662
+Vladimir_5.jpg 	 Vladimir_5.jpg 	 13 	 1.5913586616516113
+Vladimir_6.jpg 	 Vladimir_6.jpg 	 135 	 2.2585091590881348
+Vladimir_7.jpg 	 Vladimir_7.jpg 	 2 	 1.524343490600586
+Vladimir_8.jpg 	  	 0 	 1.271287441253662
+Volibear_0.jpg 	  	 0 	 1.1952757835388184
+Volibear_1.jpg 	 Volibear_1.jpg 	 101 	 1.9784486293792725
+Volibear_2.jpg 	 Volibear_2.jpg 	 164 	 2.741614580154419
+Volibear_3.jpg 	 Volibear_3.jpg 	 6 	 1.5703554153442383
+Volibear_4.jpg 	 Volibear_4.jpg 	 2 	 1.2722883224487305
+Volibear_5.jpg 	 Volibear_5.jpg 	 70 	 1.9824433326721191
+Volibear_6.jpg 	 Volibear_6.jpg 	 6 	 1.517340898513794
+Volibear_7.jpg 	 Volibear_7.jpg 	 1 	 1.2812905311584473
+Volibear_9.jpg 	 Volibear_9.jpg 	 13 	 1.7123839855194092
+Warwick_0.jpg 	 Warwick_0.jpg 	 145 	 2.308519124984741
+Warwick_1.jpg 	 Warwick_1.jpg 	 99 	 2.3935387134552
+Warwick_10.jpg 	 Warwick_10.jpg 	 184 	 2.6475963592529297
+Warwick_16.jpg 	 Warwick_16.jpg 	 55 	 1.9624416828155518
+Warwick_2.jpg 	 Warwick_2.jpg 	 5 	 1.545348882675171
+Warwick_3.jpg 	 Warwick_3.jpg 	 105 	 2.23350191116333
+Warwick_35.jpg 	 Warwick_35.jpg 	 90 	 2.281514883041382
+Warwick_4.jpg 	  	 0 	 1.1532599925994873
+Warwick_5.jpg 	  	 0 	 1.169264554977417
+Warwick_6.jpg 	 Warwick_6.jpg 	 11 	 1.528343677520752
+Warwick_7.jpg 	 Warwick_7.jpg 	 22 	 1.7303884029388428
+Warwick_8.jpg 	 Warwick_8.jpg 	 50 	 1.8974275588989258
+Warwick_9.jpg 	 Ahri_16.jpg 	 1 	 1.1892688274383545
+Xayah_0.jpg 	 AurelionSol_11.jpg 	 2 	 1.301292896270752
+Xayah_1.jpg 	 Xayah_1.jpg 	 85 	 2.2395029067993164
+Xayah_17.jpg 	 Xayah_17.jpg 	 166 	 2.3935387134552
+Xayah_2.jpg 	 Xayah_2.jpg 	 49 	 1.7103865146636963
+Xayah_3.jpg 	 Xayah_3.jpg 	 20 	 1.761397361755371
+Xayah_4.jpg 	 Xayah_4.jpg 	 3 	 1.3983142375946045
+Xayah_8.jpg 	  	 0 	 1.2112741470336914
+Xerath_0.jpg 	 Xerath_0.jpg 	 26 	 1.8344111442565918
+Xerath_1.jpg 	 Xerath_1.jpg 	 261 	 3.7298483848571777
+Xerath_12.jpg 	 Xerath_12.jpg 	 63 	 1.9984509944915771
+Xerath_2.jpg 	 Xerath_2.jpg 	 1 	 1.3433024883270264
+Xerath_3.jpg 	 Xerath_3.jpg 	 85 	 2.1124749183654785
+Xerath_4.jpg 	  	 0 	 1.2412819862365723
+Xerath_5.jpg 	 Xerath_5.jpg 	 10 	 1.6343674659729004
+XinZhao_0.jpg 	 XinZhao_0.jpg 	 39 	 2.041457414627075
+XinZhao_1.jpg 	 Aatrox_11.jpg 	 5 	 1.7423934936523438
+XinZhao_13.jpg 	  	 0 	 1.5803565979003906
+XinZhao_2.jpg 	  	 0 	 1.5353450775146484
+XinZhao_20.jpg 	 XinZhao_20.jpg 	 18 	 1.9284346103668213
+XinZhao_27.jpg 	 Aatrox_3.jpg 	 2 	 1.8174107074737549
+XinZhao_3.jpg 	 XinZhao_3.jpg 	 55 	 2.31251859664917
+XinZhao_4.jpg 	 XinZhao_4.jpg 	 281 	 3.66782546043396
+XinZhao_5.jpg 	 XinZhao_5.jpg 	 17 	 1.7964057922363281
+XinZhao_6.jpg 	 XinZhao_6.jpg 	 12 	 1.7303895950317383
+Yasuo_0.jpg 	 Yasuo_0.jpg 	 3 	 1.5883581638336182
+Yasuo_1.jpg 	  	 0 	 1.3493053913116455
+Yasuo_10.jpg 	  	 0 	 1.3833134174346924
+Yasuo_17.jpg 	 Yasuo_17.jpg 	 10 	 1.8704166412353516
+Yasuo_18.jpg 	 Yasuo_18.jpg 	 87 	 2.230504035949707
+Yasuo_2.jpg 	 Garen_1.jpg 	 3 	 1.4783313274383545
+Yasuo_3.jpg 	  	 0 	 1.255286455154419
+Yasuo_35.jpg 	 Yasuo_35.jpg 	 77 	 2.632589101791382
+Yasuo_36.jpg 	 Yasuo_36.jpg 	 48 	 2.456433057785034
+Yasuo_54.jpg 	 Yasuo_54.jpg 	 4 	 1.719388484954834
+Yasuo_55.jpg 	 Yasuo_55.jpg 	 53 	 2.0444602966308594
+Yasuo_9.jpg 	 Yasuo_9.jpg 	 23 	 1.7095975875854492
+Yone_0.jpg 	  	 0 	 1.2152752876281738
+Yone_1.jpg 	  	 0 	 1.2802915573120117
+Yone_10.jpg 	 Yone_10.jpg 	 24 	 1.8078436851501465
+Yone_19.jpg 	 Yone_19.jpg 	 3 	 1.450326919555664
+Yorick_0.jpg 	 Yorick_0.jpg 	 35 	 2.0474607944488525
+Yorick_1.jpg 	 Yorick_1.jpg 	 84 	 2.5510811805725098
+Yorick_12.jpg 	 Yorick_12.jpg 	 8 	 1.7673976421356201
+Yorick_2.jpg 	 Yorick_2.jpg 	 2 	 1.4443280696868896
+Yorick_21.jpg 	 Yorick_21.jpg 	 6 	 1.6121582984924316
+Yorick_3.jpg 	 Yorick_3.jpg 	 15 	 1.8901567459106445
+Yorick_4.jpg 	 Yorick_4.jpg 	 3 	 1.7152271270751953
+Yuumi_0.jpg 	  	 0 	 1.6813814640045166
+Yuumi_1.jpg 	 Yuumi_1.jpg 	 39 	 1.921769618988037
+Yuumi_11.jpg 	 Yuumi_11.jpg 	 61 	 2.3147928714752197
+Yuumi_19.jpg 	 Yuumi_19.jpg 	 23 	 1.8494102954864502
+Yuumi_28.jpg 	 Yuumi_28.jpg 	 46 	 2.021700143814087
+Zac_0.jpg 	  	 0 	 1.2502467632293701
+Zac_1.jpg 	 Zac_1.jpg 	 30 	 1.8459234237670898
+Zac_2.jpg 	 Zac_2.jpg 	 3 	 1.6957910060882568
+Zac_6.jpg 	 Zac_6.jpg 	 19 	 2.1125271320343018
+Zac_7.jpg 	  	 0 	 1.5602939128875732
+Zed_0.jpg 	 Zed_0.jpg 	 49 	 2.294593095779419
+Zed_1.jpg 	 Zed_1.jpg 	 62 	 2.023846387863159
+Zed_10.jpg 	 Zed_10.jpg 	 24 	 1.7503972053527832
+Zed_11.jpg 	 Zed_11.jpg 	 126 	 2.740126132965088
+Zed_13.jpg 	 Zed_13.jpg 	 14 	 1.7696073055267334
+Zed_15.jpg 	 Zed_15.jpg 	 45 	 2.2281670570373535
+Zed_2.jpg 	 Zed_2.jpg 	 65 	 1.9896759986877441
+Zed_3.jpg 	  	 0 	 1.0932466983795166
+Zed_30.jpg 	 Zed_30.jpg 	 3 	 1.40431547164917
+Zed_31.jpg 	 Zed_31.jpg 	 24 	 1.8044061660766602
+Ziggs_0.jpg 	 Ziggs_0.jpg 	 99 	 2.2465081214904785
+Ziggs_1.jpg 	 Ziggs_1.jpg 	 28 	 1.7864041328430176
+Ziggs_14.jpg 	 Ziggs_14.jpg 	 75 	 2.2865118980407715
+Ziggs_2.jpg 	  	 0 	 1.2332773208618164
+Ziggs_23.jpg 	 Ziggs_23.jpg 	 11 	 1.6383719444274902
+Ziggs_3.jpg 	 Ziggs_3.jpg 	 8 	 1.5633485317230225
+Ziggs_4.jpg 	 Ziggs_4.jpg 	 83 	 2.215498924255371
+Ziggs_5.jpg 	 Ziggs_5.jpg 	 1 	 1.3373017311096191
+Ziggs_6.jpg 	 Ziggs_6.jpg 	 95 	 2.5885837078094482
+Ziggs_7.jpg 	 Ziggs_7.jpg 	 43 	 1.8894245624542236
+Zilean_0.jpg 	 Zilean_0.jpg 	 311 	 3.634777784347534
+Zilean_1.jpg 	 Zilean_1.jpg 	 13 	 1.8304188251495361
+Zilean_2.jpg 	 Zilean_2.jpg 	 4 	 1.4943318367004395
+Zilean_3.jpg 	  	 0 	 1.2062718868255615
+Zilean_4.jpg 	  	 0 	 1.1102519035339355
+Zilean_5.jpg 	 Zilean_5.jpg 	 249 	 2.947660446166992
+Zilean_6.jpg 	 Zilean_6.jpg 	 50 	 1.9834465980529785
+Zoe_0.jpg 	 Zoe_0.jpg 	 3 	 1.4893367290496826
+Zoe_1.jpg 	 Zoe_1.jpg 	 6 	 1.5933582782745361
+Zoe_18.jpg 	 Zoe_18.jpg 	 85 	 2.2625083923339844
+Zoe_19.jpg 	 Zoe_19.jpg 	 1 	 1.3872902393341064
+Zoe_2.jpg 	 Zoe_2.jpg 	 27 	 2.0634636878967285
+Zoe_9.jpg 	 Zoe_9.jpg 	 1 	 1.3242995738983154
+Zyra_0.jpg 	 Zyra_0.jpg 	 167 	 2.71160888671875
+Zyra_1.jpg 	 Zyra_1.jpg 	 122 	 2.584582805633545
+Zyra_16.jpg 	 Zyra_16.jpg 	 12 	 1.5982511043548584
+Zyra_2.jpg 	 Zyra_2.jpg 	 14 	 1.5153424739837646
+Zyra_3.jpg 	 Zyra_3.jpg 	 3 	 1.2622809410095215
+Zyra_4.jpg 	 Zyra_4.jpg 	 4 	 1.4503288269042969
+Zyra_5.jpg 	 Zyra_5.jpg 	 4 	 1.3813109397888184
+Zyra_6.jpg 	 Zyra_6.jpg 	 96 	 2.4260506629943848
+Zyra_7.jpg 	 Zyra_7.jpg 	 47 	 2.0614640712738037
