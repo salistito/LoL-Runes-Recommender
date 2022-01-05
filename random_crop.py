@@ -5,6 +5,9 @@ import numpy as np
 
 
 def get_random_crop(image, crop_height, crop_width):
+    """
+    Function than generates a random crop of an image passed as parameter
+    """
     max_x = image.shape[1] - crop_width
     max_y = image.shape[0] - crop_height
     x = np.random.randint(0, max_x)

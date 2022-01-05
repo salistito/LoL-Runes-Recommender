@@ -3,7 +3,7 @@ import os.path
 import cv2
 import numpy as np
 import time
-import random  # La utilizamos para ejecutar consultas aleatorias de imágenes recortadas
+import random  # Se utiliza si es que se quiere ejecutar consultas aleatorias de imágenes recortadas
 
 if len(sys.argv) < 3:
     print("Uso: {} [sift_descriptors_folder_path] [cropped_images_folder_path] [results_text_file]".format(sys.argv[0]))
@@ -23,6 +23,9 @@ if not os.path.isdir(cropped_images_folder_path):
 
 
 def get_sift_descriptors(image_path):
+    """
+    Returns a sift descriptor off the image
+    """
     image = cv2.imread(image_path)
     grey_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     sift = cv2.SIFT_create()
@@ -32,6 +35,9 @@ def get_sift_descriptors(image_path):
 
 
 def find_matches(descriptors1, descriptors2, threshold_distance):
+    """
+    Returns an array with matches between keypoints of two descriptors, under a threshold distance
+    """
     bf = cv2.BFMatcher(cv2.NORM_L2)
     matches = bf.match(descriptors1, descriptors2)
     #ordenar de menor a mayor distancia
@@ -42,6 +48,9 @@ def find_matches(descriptors1, descriptors2, threshold_distance):
 
 
 def comparar_con_distancia_umbral(descriptor_name1, descriptor_name2, threshold_distance):
+    """
+    Auxiliar function than gets the matches between two descriptors
+    """
     return find_matches(descriptor_name1, descriptor_name2, threshold_distance)
 
 
