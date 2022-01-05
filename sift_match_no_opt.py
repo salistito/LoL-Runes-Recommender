@@ -49,18 +49,19 @@ def comparar_con_distancia_umbral(descriptor_name1, descriptor_name2, threshold_
 result = [["Img Consulta", "Img Detectada", "Matches", "Tiempo"]]
 
 # Iterar sobre el dataset de las imágenes recortadas y sobre el dataset original y encontrar la tupla con mayor matches
-for cropped_image in os.listdir(cropped_images_folder_path):
-    print("\nSe está buscando a:", cropped_image)
-    cropped_image_path = os.path.join(cropped_images_folder_path, cropped_image)
-    ##cropped_image1 = random.choice(os.listdir(cropped_images_folder_path))
-    ##print("\nSe está buscando a:", cropped_image1)
-    ##cropped_image_path = os.path.join(cropped_images_folder_path, cropped_image1)
+for i in range(25):
+    #print("\nSe está buscando a:", cropped_image)
+    #cropped_image_path = os.path.join(cropped_images_folder_path, cropped_image)
+    cropped_image1 = random.choice(os.listdir(cropped_images_folder_path))
+    print("\nSe está buscando a:", cropped_image1)
+    cropped_image_path = os.path.join(cropped_images_folder_path, cropped_image1)
     t0 = time.time()
-    cropped_image_sift_descriptors = get_sift_descriptors(cropped_image_path)
     best_matches = 0
     best_champion = ""
     for sift_descriptors in os.listdir(sift_descriptors_folder_path):
-        original_image_sift_descriptor = np.load(os.path.join(sift_descriptors_folder_path, sift_descriptors))
+        cropped_image_sift_descriptors = get_sift_descriptors(cropped_image_path)
+        original_image_path = os.path.join(sift_descriptors_folder_path, sift_descriptors)
+        original_image_sift_descriptor = get_sift_descriptors(original_image_path)
         matches = comparar_con_distancia_umbral(cropped_image_sift_descriptors, original_image_sift_descriptor, 150)
         n_matches = len(matches)
         if n_matches > best_matches:
@@ -71,7 +72,7 @@ for cropped_image in os.listdir(cropped_images_folder_path):
             break
     dt = time.time()-t0
     #print("el tiempo de consulta fue:", str(dt))
-    result.append([cropped_image, best_champion, best_matches, dt])
+    result.append([cropped_image1, best_champion, best_matches, dt])
 
 # Crear archivo con los resultados
 results = open(results_text_file, "w+")  # "w+" indica modo escritura
